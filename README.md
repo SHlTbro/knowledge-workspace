@@ -6,6 +6,8 @@
 
 当前 Public Preview 提供一份经拥有者批准的**真实六库公开快照**：293 篇知识预览，保留各领域的目录、知识类型与来源说明。打开目录、选择知识条目，即可阅读文本并查看 Vault 相对位置、原文件 SHA-256 和公开预览 SHA-256。
 
+[在线浏览真实六库公开快照](https://shltbro.github.io/knowledge-workspace/real-vaults/)
+
 ![真实六库的获准公开快照总览，共293篇预览，按各库领域分组](assets/screenshots/real-hub-desktop.jpg)
 
 公开快照随本次源码提供，不连接作者私库，也不会追踪之后的更新或撤权。本机私人 Web 另有身份、绑定、原生可见性和精确授权检查。下文分别说明两种使用范围。
@@ -81,7 +83,7 @@ python --version
 python -m http.server 8000 --bind 127.0.0.1 --directory docs
 ```
 
-打开 **http://127.0.0.1:8000/real-vaults/**。选择一个 Vault，在目录中点击知识条目，查看正文、相对路径和两份 SHA-256。首页应显示六库、本次293篇公开预览。按 `Ctrl+C` 停止服务。
+打开 [http://127.0.0.1:8000/real-vaults/](http://127.0.0.1:8000/real-vaults/)。选择一个 Vault，在目录中点击知识条目，查看正文、相对路径和两份 SHA-256。首页应显示六库、本次293篇公开预览。按 `Ctrl+C` 停止服务。
 
 服务只读取 `docs/real-vaults/` 中已经批准的静态文件，不发现读者自己的本机 Vault，不需要初始化 Registry。它使用相对资源路径，可放在静态站点的子路径下。与之独立的 `docs/demo/` 仍保留虚构 Sample Data，供开发和测试使用，不代表本页的真实内容。
 
@@ -108,7 +110,7 @@ python tools/kb_display_public_sample.py --output docs/demo-new
 python -m http.server 8001 --bind 127.0.0.1 --directory docs
 ```
 
-打开 http://127.0.0.1:8001/demo-new/。构建器会拒绝覆盖已有目录，并生成逐文件完整性清单。
+打开 [http://127.0.0.1:8001/demo-new/](http://127.0.0.1:8001/demo-new/)。构建器会拒绝覆盖已有目录，并生成逐文件完整性清单。
 
 ## 真实知识库如何使用
 
