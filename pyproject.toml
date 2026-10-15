@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=75,<85"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "knowledge-workspace-preview"
+version = "1.1.0a1"
+description = "Agent-oriented coordination for independent Obsidian Vaults"
+requires-python = ">=3.11"
+dependencies = ["pydantic==2.13.5", "PyYAML==6.0.3"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["kb_core*"]
+
+[tool.setuptools.package-data]
+kb_core = ["display_static/*", "local_web_static/*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "."]
+testpaths = ["tests"]

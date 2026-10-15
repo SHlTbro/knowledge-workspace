@@ -1,0 +1,23 @@
+{
+  "format": "kb-public-sample-1",
+  "sample_notice": "Fictional public-preview sample data. No production Vault is represented.",
+  "files": {
+    "index.html": "711733e645ac3e40b8e1614cdbc362461d7a6ec40262502fd39a0878202b6fb6",
+    "app.css": "4a1b20955efc22fd7fa6f8277ee9f2357409c64612cf75b98b12ad73dc191001",
+    "app.js": "cabb1f5c86c4169a511aa13846f926ece1af3505888c77c127a7aae48d06435e",
+    "sample-data/descriptions/sample-company-research.json": "04f23d464205ceb86d8b471f69aaa20542ac70be67af7c3595709d61b72b7625",
+    "sample-data/resources/sample-company-research/START-HERE.md": "acd027b1556d7091c138503258cc45fcadc52083bf8dbc13f13c1bb55fd32c14",
+    "sample-data/descriptions/sample-agent-skills.json": "d79f5630d19f906948a6681a8a355be21c07cff6b64f5dc1ad5c2c3aa62ea01c",
+    "sample-data/resources/sample-agent-skills/START-HERE.md": "d8ac45585ff38169caa5bb3786c5cdc00d35fb4fda014a536a483c55091476c5",
+    "sample-data/descriptions/sample-project-lab.json": "5b702e5d54c7cdeeffbc8d33075afbd9d882f94210a4a93fce25cfe815087940",
+    "sample-data/resources/sample-project-lab/START-HERE.md": "5ef3a29cefd50dcc14c32c6be18e802bf2efc3c6e1aa86434268e985e71f47ea",
+    "sample-data/descriptions/sample-media-notes.json": "b73fec4bc9a9f3316733b97d42525120012b31ec660dbbac6c1fa40f3b27bbf4",
+    "sample-data/resources/sample-media-notes/START-HERE.md": "25a68f03b1dea62d145a04cd0a091b936f4e113bd2187f4b259c34ab890e5bc5",
+    "sample-data/descriptions/sample-product-design.json": "62391c6f310bfb0677defc84cd9f008052095fffb7adceadcb29d3122ffba6b1",
+    "sample-data/resources/sample-product-design/START-HERE.md": "55287a654884edf3815e9d9fec27df9d56f1809888c3c8320efdc6faf3f57ad0",
+    "sample-data/descriptions/sample-engineering-notes.json": "cc3fcc14d4771c972fc9c6cfc1557d75403ac16ed2b3918b3964527e23e3dba9",
+    "sample-data/resources/sample-engineering-notes/START-HERE.md": "b8046603551d034b338bb7fb3867e5359b93757673bb34e6640f5e4461381387",
+    "sample-data/projection.json": "73db5ab6fc3d35b53010f2bc14dcf120c74c42b8e61a7f5693340d966d3e5d68",
+    "sample-data/NOTICE.txt": "687003e6c02b4c213a9d62607fb8fef01eca014f46ae8a5c46390ee6c77f95ec"
+  }
+}

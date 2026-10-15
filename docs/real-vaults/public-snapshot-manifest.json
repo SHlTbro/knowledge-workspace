@@ -1,0 +1,2072 @@
+{
+  "format": "kb-public-snapshot-manifest-1",
+  "notice": "真实内容的获准公开快照｜非实时｜仅本范围",
+  "generated_at": "2026-10-15T10:32:48Z",
+  "snapshot_sha256": "21c6ae0283f1a74cbe2a102b2094d30e27432849dc788aef4425245f12e3d118",
+  "approval_hash": "5e23178b9a455370a7704ad086365e7545b8ccce02798017f728f359dbd86db9",
+  "resources": [
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-004-hook-title-formula.md",
+      "source_sha256": "31474ad554b62fa267b81b31a082e9bdc04aabe5f99fe378448e087199ac64e6",
+      "export_sha256": "31474ad554b62fa267b81b31a082e9bdc04aabe5f99fe378448e087199ac64e6"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-005-contrast-review-structure.md",
+      "source_sha256": "b085b4513037ada66e8fe73af18c171386ffc486e48630c7bba1f5c7f78cae65",
+      "export_sha256": "b085b4513037ada66e8fe73af18c171386ffc486e48630c7bba1f5c7f78cae65"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-006-voiceover-pacing-peaks.md",
+      "source_sha256": "c62e8ffea269c4d4452bc5693e8756e8bf6894928b2aa08ed080ea7306cf9d85",
+      "export_sha256": "c62e8ffea269c4d4452bc5693e8756e8bf6894928b2aa08ed080ea7306cf9d85"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-007-conceptual-bottom-up-explainer.md",
+      "source_sha256": "2c2c622287c9dae872b7d8485f08df59a77f64e489ce10ea0b721922df0a4c17",
+      "export_sha256": "2c2c622287c9dae872b7d8485f08df59a77f64e489ce10ea0b721922df0a4c17"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-008-concession-argument-chain.md",
+      "source_sha256": "49c718f918a17c319aeba48df9a13ca8c478aafbdad4ec4e39fd2ff84658a438",
+      "export_sha256": "49c718f918a17c319aeba48df9a13ca8c478aafbdad4ec4e39fd2ff84658a438"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-009-explainer-hook-cognitive-gap.md",
+      "source_sha256": "4cdc9fa023952befa00cab9c395c6800edcfca83d033b8ec42bf45c338b46dfa",
+      "export_sha256": "4cdc9fa023952befa00cab9c395c6800edcfca83d033b8ec42bf45c338b46dfa"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-010-numbered-series-mechanism.md",
+      "source_sha256": "0fa8b7ecdc5e12941cd5eca18847614a34794c87f8ff9f9f1b7a2bed03a2b236",
+      "export_sha256": "0fa8b7ecdc5e12941cd5eca18847614a34794c87f8ff9f9f1b7a2bed03a2b236"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-011-demo-as-cta.md",
+      "source_sha256": "756f3253feed0c813be0632224cdbecfcf64c56373b34244bed36494dfa55dd7",
+      "export_sha256": "756f3253feed0c813be0632224cdbecfcf64c56373b34244bed36494dfa55dd7"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-012-weakness-chain-listing.md",
+      "source_sha256": "4d80d8bbe5ba7126ff58d3f7c94ab888220096b93c798bff48e63ab70cbb1e2a",
+      "export_sha256": "4d80d8bbe5ba7126ff58d3f7c94ab888220096b93c798bff48e63ab70cbb1e2a"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-013-remotion-ai-motion-generation.md",
+      "source_sha256": "0b1e7e601937619ed6e1fea4352b58d7a5cbd810c37f7c3a5b66d08aa70a83c5",
+      "export_sha256": "0b1e7e601937619ed6e1fea4352b58d7a5cbd810c37f7c3a5b66d08aa70a83c5"
+    },
+    {
+      "vault_id": "agent-related",
+      "path": "wiki/patterns/P-014-ai-video-workflow-layered.md",
+      "source_sha256": "be4201256e3822ba8a915db97e724db8ed573cc287b99f911d03095571f31008",
+      "export_sha256": "be4201256e3822ba8a915db97e724db8ed573cc287b99f911d03095571f31008"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/ammunition/A-001-mem0-vs-graphiti-vs-letta.md",
+      "source_sha256": "9020e4fc2f48f024a3aa4fed4303a26d4d2d7b300096803ba555b5b95c5f27a9",
+      "export_sha256": "9020e4fc2f48f024a3aa4fed4303a26d4d2d7b300096803ba555b5b95c5f27a9"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/ammunition/A-002-filesystem-vs-vector-vs-graph-memory.md",
+      "source_sha256": "0e86c75f9c7db90c483f823403d67b1be5b70bb9e1798c48c0121a87e80f6afd",
+      "export_sha256": "0e86c75f9c7db90c483f823403d67b1be5b70bb9e1798c48c0121a87e80f6afd"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/ammunition/A-003-langchain-vs-langgraph.md",
+      "source_sha256": "21becc2a0297b2f519c476421d96ca54f3ff2b08714af6b5d98fe6628d5ebf89",
+      "export_sha256": "21becc2a0297b2f519c476421d96ca54f3ff2b08714af6b5d98fe6628d5ebf89"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/ammunition/A-004-eino-go-vs-python-frameworks.md",
+      "source_sha256": "3ccb2b13716a5d297182f1e7b534cdd930f9b774f5f11a9bcfb3e93c7974c7bf",
+      "export_sha256": "3ccb2b13716a5d297182f1e7b534cdd930f9b774f5f11a9bcfb3e93c7974c7bf"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C02/F-C02-003-metagpt.md",
+      "source_sha256": "2d610394b1f518c41d12d9c8ce9805b7732e26cbdae1d6a5a9db7f625effa797",
+      "export_sha256": "c7d0f3acc850917274858d0c41423dad614af12ddd886b4eb946cc825fac2fe7"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C02/F-C02-004-chatdev.md",
+      "source_sha256": "75e12eb64713bf79f821057ffcaaf800e0b20b69b7df28a447608480552acfd6",
+      "export_sha256": "08cc15e5b94b538546b24f88650ca2d5a8c661fb314097b74501c406d98e3626"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C02/F-C02-005-generative-agents.md",
+      "source_sha256": "e4df92f5bf892050e841ded500c5e58504d9cefbb65b492df219fa5a4c5c8526",
+      "export_sha256": "c1c5943195860955ebf008136f9ab3df2f089309720bec0c55f39fcbcc01ec38"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C02/F-C02-006-camel.md",
+      "source_sha256": "b99833ef19d69acb41ac37ec76dc37dfb0ef40e02da2a8a25d3d2b633af3ebbf",
+      "export_sha256": "45c75362b94fc3f5f1bdc7f351e9d0211fa04c8bd1d809d75e2939374bebfae4"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C02/F-C02-007-crewAI.md",
+      "source_sha256": "bdcb3bd1dd2a6d9bc2d25e44895fcf06a99df331d5f772e589c806eca39ce3ff",
+      "export_sha256": "1d9b1d638f3029ce3d13dff4eccb8f2f6704f99e23b87a8d85672c3cfc7609f8"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C03/F-C03-001-claude-code.md",
+      "source_sha256": "4f8a346cb04024e66054828859a85da74c7a50905e8478b022d2ff10a5db6f14",
+      "export_sha256": "88fb12d5fb0fdbc087751f2d7e147e2f406a7278731a5e80a294fdd56a67e43b"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C03/F-C03-005-gemini-cli.md",
+      "source_sha256": "2481f74303579456ad1e9d89edecf56d8e34fa977ac52a77bcb1583b6f5addcd",
+      "export_sha256": "41a49517359556521913ab05162a1d34f4d408a1f2452d220069b7eccb73dc86"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C03/F-C03-006-OpenHands.md",
+      "source_sha256": "96af988327642a85cb3c32026d31544de8f64aa60b3066f911b8b0344728a3d2",
+      "export_sha256": "3419dbd13f8b4fc51172d5d68b43bcb9dc18eb2a3d24c62ede7f1b7afdb6c6f4"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C04/F-C04-001-daytona.md",
+      "source_sha256": "2b95dd1a3725b0fdffde02dd2b99c0c1c8b6344579acf3d99e0c267e65e5c5db",
+      "export_sha256": "d39ca6e99840be9a979e67609e1cb52f07399c5b744764fb7c92114b855baf65"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C06/F-C06-001-mem0.md",
+      "source_sha256": "9c95237879bf1085fcfd50d406a7234ad6a1e6857abc964bdd11ff06e8e1bcd4",
+      "export_sha256": "d31e71e986a20f1b0aca0574f807a4af9b99289742cb4cf21165a8073ddc4c71"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C06/F-C06-002-graphiti.md",
+      "source_sha256": "8964bb229036cbbfd4f26a4a11bf4f2a64423e248f90d9fc4b9049b65d5d9f0c",
+      "export_sha256": "05fe5a825cfba302e44fee74b95426f7bc0c276e423067568d9607d8ce1fc5f9"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C06/F-C06-003-letta.md",
+      "source_sha256": "81296c5472bf55812987ca3cda97528fa1f3c52674120c069bbb0e837eea7de8",
+      "export_sha256": "37bb1edbb66364f0916dda3c802947d07fe5ef7fd2b2a5b3596e4640afd39852"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C06/F-C06-004-cognee.md",
+      "source_sha256": "d8978250bbb8c75c53eb947fa1688853d0b10537e5aa28068fbf2a595fe9b49b",
+      "export_sha256": "7b5d98e0c65994f339c62d821ab934193e263440a808ee91a127d4189eabea07"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C08/F-C08-001-browser-use.md",
+      "source_sha256": "77f5aa4542b2380bb0027f218ffc2d546fcc0647279618e82f5ff865136da24f",
+      "export_sha256": "bda3a3cfa004f0c22e202fc8b10101955c0fde636b951f544c00a5b6402c9e0e"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C09/F-C09-001-langfuse.md",
+      "source_sha256": "d09bb4a14e3dba2da6281e5692ff731ffe4beb10316c61a34211c316b3ea35e3",
+      "export_sha256": "e40f6521535c04f841069faaa37c3f1a8cf9027efb93287f91ddff604560933b"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C09/F-C09-002-opik.md",
+      "source_sha256": "aa81dd13360cb4f99b0d33587d5d704ed161b09918421c6087a7f8fde28ffdc4",
+      "export_sha256": "f34e56efa671608c43711c99d2d9ab2583d8644d669502c1322e210b8635fb9b"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C09/F-C09-003-phoenix.md",
+      "source_sha256": "459b9e6df8661d4f4fe80811ffcf03bd6d42e6aafd33132b1c6d7fda46e49583",
+      "export_sha256": "53aa9ce0438a8237a8b196df5fc953a61b91a914d03b93ab07d4c5d3f4f9e8ff"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C10/F-C10-001-superpowers.md",
+      "source_sha256": "513811ef2f3bd66b3e00b8587739634ec30c44d1407d784caffbb5b4317f81f8",
+      "export_sha256": "92faca0b768e4e16d37d0ec344ed39f172677a0e7925d429ba862537ca6ae1fd"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/frameworks/F-C10/F-C10-002-mcp-servers.md",
+      "source_sha256": "f1c56090e6a733e55bc6cfe93182c13d9565820200738c2790ec2682466bf6ff",
+      "export_sha256": "c01cc1a22077f324f863a148baad65d8d356250e0d87f8b3bde56beeb1c427a8"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/matrices/M-001-c06-memory-matrix.md",
+      "source_sha256": "434c3cd0409ea6c9bfcd86e401093f2db8250b6e247e582aefb21a142c59e435",
+      "export_sha256": "434c3cd0409ea6c9bfcd86e401093f2db8250b6e247e582aefb21a142c59e435"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/matrices/M-002-c10-protocol-ecosystem-matrix.md",
+      "source_sha256": "656badd1f790c4b9bada4446836d590f12c6b1d08a9876c2f7f6a82c3f11df91",
+      "export_sha256": "656badd1f790c4b9bada4446836d590f12c6b1d08a9876c2f7f6a82c3f11df91"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/matrices/M-003-c03-cli-coding-agent-matrix.md",
+      "source_sha256": "d6cc3f81f91830e99ba25bdb00ef2f44418d4ef3a38204f764f64b4fdd1780c7",
+      "export_sha256": "d6cc3f81f91830e99ba25bdb00ef2f44418d4ef3a38204f764f64b4fdd1780c7"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/matrices/M-004-c01-orchestration-matrix.md",
+      "source_sha256": "a3719afb70d5a66d5294dc76368ccde25a0aaba83392e011c31ba303e0888054",
+      "export_sha256": "a3719afb70d5a66d5294dc76368ccde25a0aaba83392e011c31ba303e0888054"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/matrices/M-005-c02-multiagent-matrix.md",
+      "source_sha256": "9dfbbbe7ced40c789830753b185ad5142bd5156dccbb65cfade4bbb1f8ab01a6",
+      "export_sha256": "9dfbbbe7ced40c789830753b185ad5142bd5156dccbb65cfade4bbb1f8ab01a6"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/matrices/M-006-c09-evaluation-matrix.md",
+      "source_sha256": "e1f3fbe5dad65f18047d3a613066843e0ac7cd9475003bceb162636065021734",
+      "export_sha256": "e1f3fbe5dad65f18047d3a613066843e0ac7cd9475003bceb162636065021734"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/patterns/P-001-workflow-vs-agent.md",
+      "source_sha256": "0c8585dc43bac5b5b140d29260b8a0e0877110f965463d8868b47bf933317eaa",
+      "export_sha256": "0c8585dc43bac5b5b140d29260b8a0e0877110f965463d8868b47bf933317eaa"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/patterns/P-002-context-discipline.md",
+      "source_sha256": "0b94558b88910fb582dceef1dfd2ea6cb1ee4f22e34f23f66dd067fea3533c71",
+      "export_sha256": "0b94558b88910fb582dceef1dfd2ea6cb1ee4f22e34f23f66dd067fea3533c71"
+    },
+    {
+      "vault_id": "agent-architecture",
+      "path": "wiki/patterns/P-003-tool-design-aci.md",
+      "source_sha256": "5b4d73862afb72ff267d72968888d42a8be74bd4dd7544eca2fe8d7bd5bdce03",
+      "export_sha256": "5b4d73862afb72ff267d72968888d42a8be74bd4dd7544eca2fe8d7bd5bdce03"
+    },
+    {
+      "vault_id": "agent-skills",
+      "path": "wiki/design-cards/D-001-kb-operator-design-card.md",
+      "source_sha256": "d624c6f2aac1d16b253de3967b667fe8fd51f60477431a0fa2075de1d3e17ed4",
+      "export_sha256": "d624c6f2aac1d16b253de3967b667fe8fd51f60477431a0fa2075de1d3e17ed4"
+    },
+    {
+      "vault_id": "agent-skills",
+      "path": "wiki/design-cards/D-002-tdd-for-skills-design-card.md",
+      "source_sha256": "8638bda1934cec021bdecb020fa2b45036927faf2684b431259c4c295d54ef7c",
+      "export_sha256": "8638bda1934cec021bdecb020fa2b45036927faf2684b431259c4c295d54ef7c"
+    },
+    {
+      "vault_id": "agent-skills",
+      "path": "wiki/design-philosophy/PH-001-verifiability-before-completeness.md",
+      "source_sha256": "abe2d6b0af7e6f87d9357620b2363ef77c23a0dcaa50ac6bea0e3fcc12a70851",
+      "export_sha256": "abe2d6b0af7e6f87d9357620b2363ef77c23a0dcaa50ac6bea0e3fcc12a70851"
+    },
+    {
+      "vault_id": "agent-skills",
+      "path": "wiki/patterns/P-015-schema-first-extraction-retry-loop.md",
+      "source_sha256": "6cd5bbbf2b53256f3bf13659eb3a5c0ca78b2ff265651b99764ecfe9293ae8b9",
+      "export_sha256": "d6a4f8abb6673fb32425a21349da94b3b7b21bd9b093bfc19ba6bafad4d2333b"
+    },
+    {
+      "vault_id": "agent-skills",
+      "path": "wiki/patterns/P-016-jd-resume-tailoring-methodology.md",
+      "source_sha256": "271f1b23163adc98e19730fe60acf4d62c26f1310af959ac3523a988290d69e5",
+      "export_sha256": "d24c8f829a6787cc0f398c9a6f517e1916ae5cfa5737e5d19c3274fc7a83f6ea"
+    },
+    {
+      "vault_id": "agent-skills",
+      "path": "wiki/requirements/R-002-project-context-hygiene/SKILL.md",
+      "source_sha256": "b81b5c9606be21695b779cbd9cb912cb4e00ba9911770b8b7723b47117827b1c",
+      "export_sha256": "18d9e36902b53468bacee0c123695a56e6e8b6f70ca8dc3e744d63eb83ab89c6"
+    },
+    {
+      "vault_id": "video-knowledge",
+      "path": "wiki/cards/mot/MOT-DY-BURST-001.md",
+      "source_sha256": "80507dc642a1445e3e2ace4324be553877203462d7f1d6e296e9cc9240437215",
+      "export_sha256": "532a10f257128cec8456930b8949f6ca31e995bb6134835a3e3af2d556fa9aac"
+    },
+    {
+      "vault_id": "video-knowledge",
+      "path": "wiki/cards/str/STR-DY-INTERACTION-001.md",
+      "source_sha256": "4c5fd76274dcb9a92360b80f9761a747c0370d01d69eb124a88ce69531f727d4",
+      "export_sha256": "84fb7c72befc28afb81065e307a0ba328585234ca44d9768bdf8bcef403cd646"
+    },
+    {
+      "vault_id": "video-knowledge",
+      "path": "wiki/cards/sty/STY-DY-INTERACTION-001.md",
+      "source_sha256": "13e7d8b9315496f9ea8da64f9c3fd152e91df95822caabd71f484c7985d29c19",
+      "export_sha256": "2a0b64ab9cd2dee017dc89be14c3f8b099edf5610a78e74dd479696487a922c9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-001.md",
+      "source_sha256": "1ea74335701853854e3a67f853b28297372b3732fbf15110d3e10d51bbd1430c",
+      "export_sha256": "1ea74335701853854e3a67f853b28297372b3732fbf15110d3e10d51bbd1430c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-002.md",
+      "source_sha256": "08501ffeaa5fb24377603a53c473a655b0511935e370eb0065b12ca69ec7ec57",
+      "export_sha256": "08501ffeaa5fb24377603a53c473a655b0511935e370eb0065b12ca69ec7ec57"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-003.md",
+      "source_sha256": "468837cdd456f3b43eaca491aabc4013dbd0a562331099415149e230534525be",
+      "export_sha256": "468837cdd456f3b43eaca491aabc4013dbd0a562331099415149e230534525be"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-004.md",
+      "source_sha256": "4c4bcb850cec42cc5d0b96bec744bde194c91c99bf12be66c03c76a51c4137cc",
+      "export_sha256": "4c4bcb850cec42cc5d0b96bec744bde194c91c99bf12be66c03c76a51c4137cc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-005.md",
+      "source_sha256": "d102a1fa8b24df68f4691891f802c3eb3918407b175a0ee51dfabb60b9e3800f",
+      "export_sha256": "d102a1fa8b24df68f4691891f802c3eb3918407b175a0ee51dfabb60b9e3800f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-006.md",
+      "source_sha256": "43936103068875f83d2f66f274193fcef1972ee618d23fb92fb7d48e06261a72",
+      "export_sha256": "43936103068875f83d2f66f274193fcef1972ee618d23fb92fb7d48e06261a72"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-007.md",
+      "source_sha256": "cc9117edacbb2ec746b002613796fb2a8233720bd048a98ccf703e5d0da5f66e",
+      "export_sha256": "cc9117edacbb2ec746b002613796fb2a8233720bd048a98ccf703e5d0da5f66e"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-008.md",
+      "source_sha256": "fa9ee712aa3912307fbd0bdc407788ba8dca67eaeff680f89a24101f49179abd",
+      "export_sha256": "fa9ee712aa3912307fbd0bdc407788ba8dca67eaeff680f89a24101f49179abd"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-009.md",
+      "source_sha256": "fc0ab82f19fc3d8c08c485041a04a779258d19c6ab6ee41a4e3b82e3421d89f2",
+      "export_sha256": "fc0ab82f19fc3d8c08c485041a04a779258d19c6ab6ee41a4e3b82e3421d89f2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-010.md",
+      "source_sha256": "fc5e851e1753394755d3f169f872da3b6247f4a52fbf9157972e8e52fb0890be",
+      "export_sha256": "fc5e851e1753394755d3f169f872da3b6247f4a52fbf9157972e8e52fb0890be"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-011.md",
+      "source_sha256": "143dc10a7769689ed74a7a8cf843d9ab71f79194998499b89b52a113e86bcc8f",
+      "export_sha256": "143dc10a7769689ed74a7a8cf843d9ab71f79194998499b89b52a113e86bcc8f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-012.md",
+      "source_sha256": "6c7789a64836fb11017be40d80b378ce90693075d31cbce758c31d35773750b5",
+      "export_sha256": "6c7789a64836fb11017be40d80b378ce90693075d31cbce758c31d35773750b5"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-013.md",
+      "source_sha256": "30b88a16b35f0d06452879ecc5db54271b7a82b95f1a09915a748f7e707b6eda",
+      "export_sha256": "30b88a16b35f0d06452879ecc5db54271b7a82b95f1a09915a748f7e707b6eda"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-014.md",
+      "source_sha256": "f907e55b914486fca3251aa15db60289ef25c801bf352b5a5f583b178883b878",
+      "export_sha256": "f907e55b914486fca3251aa15db60289ef25c801bf352b5a5f583b178883b878"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-015.md",
+      "source_sha256": "1c74bb11844a8493e67b700f69de6c96987f50d770cd56e913d730dd569f4915",
+      "export_sha256": "1c74bb11844a8493e67b700f69de6c96987f50d770cd56e913d730dd569f4915"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-016.md",
+      "source_sha256": "d4600d67efdc1738f3605a705407f252cf7a65d7f7399c85fbc7f97b4968dfb0",
+      "export_sha256": "d4600d67efdc1738f3605a705407f252cf7a65d7f7399c85fbc7f97b4968dfb0"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-017.md",
+      "source_sha256": "7c1e895c7063922119c622950eab29285b6b3d6ce14a2563d2f6cc802ec4541c",
+      "export_sha256": "7c1e895c7063922119c622950eab29285b6b3d6ce14a2563d2f6cc802ec4541c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-018.md",
+      "source_sha256": "2eb3183d758065c0ed968ef2d7671c945f7efb52f1b3bb8f0eb0a08dd2f7a534",
+      "export_sha256": "2eb3183d758065c0ed968ef2d7671c945f7efb52f1b3bb8f0eb0a08dd2f7a534"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-019.md",
+      "source_sha256": "ddebaa7d0d9d6c0202f03629ae276e64d321c457cc0e6ce3d13845681a33be31",
+      "export_sha256": "ddebaa7d0d9d6c0202f03629ae276e64d321c457cc0e6ce3d13845681a33be31"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-020.md",
+      "source_sha256": "5baff3218915000c576843797f05f786ff8e24b36702d73f716e5eb9b4411110",
+      "export_sha256": "5baff3218915000c576843797f05f786ff8e24b36702d73f716e5eb9b4411110"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-021.md",
+      "source_sha256": "c800ce8b226e059f40fc45ccc5a804cd3e6572c21e8a5087fbcca8439959b5fb",
+      "export_sha256": "c800ce8b226e059f40fc45ccc5a804cd3e6572c21e8a5087fbcca8439959b5fb"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-022.md",
+      "source_sha256": "b6cb8efeb8f10c7254a194b003753a373eac8594c4f6798c42fca4fd6b3bb55d",
+      "export_sha256": "b6cb8efeb8f10c7254a194b003753a373eac8594c4f6798c42fca4fd6b3bb55d"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-023.md",
+      "source_sha256": "4863318baf27ae5da3f672520b186fbf03ef335f8b1bc51c52bf7a473a3e0214",
+      "export_sha256": "4863318baf27ae5da3f672520b186fbf03ef335f8b1bc51c52bf7a473a3e0214"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-024.md",
+      "source_sha256": "cba0b185693a34f11bab1c7ccaee63a274c31b287d1a104b114e365503d198c7",
+      "export_sha256": "cba0b185693a34f11bab1c7ccaee63a274c31b287d1a104b114e365503d198c7"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-025.md",
+      "source_sha256": "56d55a239be4b99dd62e616172d94250f193ead4aac860ed142f13bf6e6a6e06",
+      "export_sha256": "56d55a239be4b99dd62e616172d94250f193ead4aac860ed142f13bf6e6a6e06"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-026.md",
+      "source_sha256": "d1746f2c3b3f036cbe6d748750493cd313ebfd398bbde25d5f3fa9f3d6ccce1e",
+      "export_sha256": "d1746f2c3b3f036cbe6d748750493cd313ebfd398bbde25d5f3fa9f3d6ccce1e"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-027.md",
+      "source_sha256": "16782276ceb2b5256a3eec5203c61039c5cd983c79c128bddb144a9149516d31",
+      "export_sha256": "16782276ceb2b5256a3eec5203c61039c5cd983c79c128bddb144a9149516d31"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-028.md",
+      "source_sha256": "343bc37950dfdffcb758a0970481e9ac11638adbd485b27c01b99b69a7dfb186",
+      "export_sha256": "343bc37950dfdffcb758a0970481e9ac11638adbd485b27c01b99b69a7dfb186"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-029.md",
+      "source_sha256": "edaf519f1ac9722c167a4ba7911702a0ab86ba0f9c8cc41343d30af85ff83a45",
+      "export_sha256": "edaf519f1ac9722c167a4ba7911702a0ab86ba0f9c8cc41343d30af85ff83a45"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-030.md",
+      "source_sha256": "dbe9097bf6ba991652191307b2524ef279e8b3c6e666aca0c19f33fa5aa5777a",
+      "export_sha256": "dbe9097bf6ba991652191307b2524ef279e8b3c6e666aca0c19f33fa5aa5777a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-031.md",
+      "source_sha256": "fa624be8f6c29927d90d671a69c5f8c93af7e2cc06a3a35d5d1e238c1802b6a7",
+      "export_sha256": "fa624be8f6c29927d90d671a69c5f8c93af7e2cc06a3a35d5d1e238c1802b6a7"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-032.md",
+      "source_sha256": "78262e1017385a53f5e5c0765b65271c2415a5950dbcf6fa6689fc2144767e04",
+      "export_sha256": "78262e1017385a53f5e5c0765b65271c2415a5950dbcf6fa6689fc2144767e04"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-033.md",
+      "source_sha256": "65277047c7fd4e33e068e9c796d450cc79c1b34fba61be62509243d4c427a6f5",
+      "export_sha256": "65277047c7fd4e33e068e9c796d450cc79c1b34fba61be62509243d4c427a6f5"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-034.md",
+      "source_sha256": "d9d81a4fb6de5f653b64b94b7f92ef43f1d6abcd79fbfc8469b047d40ada1ec4",
+      "export_sha256": "d9d81a4fb6de5f653b64b94b7f92ef43f1d6abcd79fbfc8469b047d40ada1ec4"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-035.md",
+      "source_sha256": "d214107ed3131c17b07fa70c477a19e30eb025f5f84ef5bf63edc41acd0bf139",
+      "export_sha256": "d214107ed3131c17b07fa70c477a19e30eb025f5f84ef5bf63edc41acd0bf139"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-036.md",
+      "source_sha256": "ef318c56be7b841c10ec07b7beafba302af98dc7c0d0f208e9e606c3f81a5986",
+      "export_sha256": "ef318c56be7b841c10ec07b7beafba302af98dc7c0d0f208e9e606c3f81a5986"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-037.md",
+      "source_sha256": "e05160dd9c9af37f1ca949938e62ef415d9d7a2e883c7a63d8c1606633baa6e5",
+      "export_sha256": "e05160dd9c9af37f1ca949938e62ef415d9d7a2e883c7a63d8c1606633baa6e5"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-038.md",
+      "source_sha256": "e011b8d28526512a6c0b6b705272e629aac563f61a1041f9c9ca48fa26a8af6f",
+      "export_sha256": "e011b8d28526512a6c0b6b705272e629aac563f61a1041f9c9ca48fa26a8af6f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-039.md",
+      "source_sha256": "6a425382e1d2fb50a1712ac83113a9f244e772dd62c4ab5f6a04a748a6d4677d",
+      "export_sha256": "6a425382e1d2fb50a1712ac83113a9f244e772dd62c4ab5f6a04a748a6d4677d"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-040.md",
+      "source_sha256": "c7fb13803197ee02e8e5f8f780dfa9036c35818f255f779f9a4adc6f02e3320c",
+      "export_sha256": "c7fb13803197ee02e8e5f8f780dfa9036c35818f255f779f9a4adc6f02e3320c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-041.md",
+      "source_sha256": "262a2d69673be9c542aeb89de54fe9eeed774febf54f0b87b2b14016bb78d8f7",
+      "export_sha256": "262a2d69673be9c542aeb89de54fe9eeed774febf54f0b87b2b14016bb78d8f7"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-042.md",
+      "source_sha256": "c6dab837b618b92d6154f54ee433a58bcaa60eeb930c3adb24262b5f6e1429f4",
+      "export_sha256": "c6dab837b618b92d6154f54ee433a58bcaa60eeb930c3adb24262b5f6e1429f4"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-043.md",
+      "source_sha256": "3e616f43997241e818c35733ca72e8eb30157a705fbdce8b4cda78fb98393aff",
+      "export_sha256": "3e616f43997241e818c35733ca72e8eb30157a705fbdce8b4cda78fb98393aff"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-044.md",
+      "source_sha256": "f7c5bc275875d3c1cd33b4654b54330ef9b4f15a1de25ffdaf5b5e9eb0c38107",
+      "export_sha256": "f7c5bc275875d3c1cd33b4654b54330ef9b4f15a1de25ffdaf5b5e9eb0c38107"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-045.md",
+      "source_sha256": "7c0dc14fac6bb235cc7361082a8e28ec5a22fbee3e2fd37d0c0ccda7ceaae4d3",
+      "export_sha256": "7c0dc14fac6bb235cc7361082a8e28ec5a22fbee3e2fd37d0c0ccda7ceaae4d3"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-046.md",
+      "source_sha256": "611176305c042777e7ff9d33b1acd5a66a666e68b614c0a7bb98799293172ef9",
+      "export_sha256": "611176305c042777e7ff9d33b1acd5a66a666e68b614c0a7bb98799293172ef9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-047.md",
+      "source_sha256": "f82146797ad70a283f8eb021b4d1a6229ed9d0cfc17a5e66b6f3c1ae6b019d10",
+      "export_sha256": "f82146797ad70a283f8eb021b4d1a6229ed9d0cfc17a5e66b6f3c1ae6b019d10"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-048.md",
+      "source_sha256": "74ead9e0abe5ed163b51f8f5b86dd7a16db4167c39a087b3174583d4bbeca1aa",
+      "export_sha256": "74ead9e0abe5ed163b51f8f5b86dd7a16db4167c39a087b3174583d4bbeca1aa"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-049.md",
+      "source_sha256": "3034e81ef38f9a0a093023347013b5c6c833d6405a684108ec7fae9824dad529",
+      "export_sha256": "3034e81ef38f9a0a093023347013b5c6c833d6405a684108ec7fae9824dad529"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-050.md",
+      "source_sha256": "6a6f58af165fb5368a0433acc7d25d3cd8be47dbdd3c0186994b5302df561635",
+      "export_sha256": "6a6f58af165fb5368a0433acc7d25d3cd8be47dbdd3c0186994b5302df561635"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-051.md",
+      "source_sha256": "52aa1efee01d7025daefd8077f42381f6d7543570636961d26532fa845c27342",
+      "export_sha256": "52aa1efee01d7025daefd8077f42381f6d7543570636961d26532fa845c27342"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-052.md",
+      "source_sha256": "98bbf673c8950b260d61a5daf3564a7efe56a2d3c1894c518f1599a8de160bcc",
+      "export_sha256": "98bbf673c8950b260d61a5daf3564a7efe56a2d3c1894c518f1599a8de160bcc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-053.md",
+      "source_sha256": "d002483c9f027d8101e4fef48e2a1e733023082a07d96b27e9eac26555185d9e",
+      "export_sha256": "d002483c9f027d8101e4fef48e2a1e733023082a07d96b27e9eac26555185d9e"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-054.md",
+      "source_sha256": "bad78a36a67abe3868a79145acb903b08fd985efe8c737cb46f18262115405b3",
+      "export_sha256": "bad78a36a67abe3868a79145acb903b08fd985efe8c737cb46f18262115405b3"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-055.md",
+      "source_sha256": "4192cb082d0f6dfc5a500bc5ee62ee4d4b7d82811168190dc1b82db726c189d1",
+      "export_sha256": "4192cb082d0f6dfc5a500bc5ee62ee4d4b7d82811168190dc1b82db726c189d1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-056.md",
+      "source_sha256": "2df1bfd49e634eb0290f6aa95f0dd97670a1e099bbbade7b036861ec45adb7cd",
+      "export_sha256": "2df1bfd49e634eb0290f6aa95f0dd97670a1e099bbbade7b036861ec45adb7cd"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-057.md",
+      "source_sha256": "97db3868641cecd7accce51aa4c54fd287f79e06d62de6d82764159d463b0781",
+      "export_sha256": "97db3868641cecd7accce51aa4c54fd287f79e06d62de6d82764159d463b0781"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-058.md",
+      "source_sha256": "8ca5278cc14fc874131c321962b40016c303da452ecb91a5b0f4a805712a7e4c",
+      "export_sha256": "8ca5278cc14fc874131c321962b40016c303da452ecb91a5b0f4a805712a7e4c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-059.md",
+      "source_sha256": "b8304ade506ef02631a9c4f91459445b5597a66df9f5ddc25a08f31799638308",
+      "export_sha256": "b8304ade506ef02631a9c4f91459445b5597a66df9f5ddc25a08f31799638308"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-060.md",
+      "source_sha256": "52c6bb562d9431b5ce1ded0229afd4f4983b5615e6c3b6aba5620539ada20ae8",
+      "export_sha256": "52c6bb562d9431b5ce1ded0229afd4f4983b5615e6c3b6aba5620539ada20ae8"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-061.md",
+      "source_sha256": "f88fa1b9bd6657d485a8586cd0ffd9028ceca2710fe7c07f81bdb8c25eff2e08",
+      "export_sha256": "f88fa1b9bd6657d485a8586cd0ffd9028ceca2710fe7c07f81bdb8c25eff2e08"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-062.md",
+      "source_sha256": "a633dbcbf22e73745afa823444ac66b0973674c36ad2d28826b44d2473a4522f",
+      "export_sha256": "a633dbcbf22e73745afa823444ac66b0973674c36ad2d28826b44d2473a4522f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-063.md",
+      "source_sha256": "4e47f6321145d1af9b64846812bf38e779570d0706f17bb7ac0f5c89755cc0de",
+      "export_sha256": "4e47f6321145d1af9b64846812bf38e779570d0706f17bb7ac0f5c89755cc0de"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/exp/EXP-064.md",
+      "source_sha256": "b9675710bcaa245a9da215136d4959cb5c72a5c303b1982eb266a7e41bbed80f",
+      "export_sha256": "b9675710bcaa245a9da215136d4959cb5c72a5c303b1982eb266a7e41bbed80f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-001.md",
+      "source_sha256": "65886bc12cf359cbbbf7fc4be96a731e1bf2ed1c76c4b28ce6fed7ed4568053a",
+      "export_sha256": "65886bc12cf359cbbbf7fc4be96a731e1bf2ed1c76c4b28ce6fed7ed4568053a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-002.md",
+      "source_sha256": "8312e365152a16e3fa54cfc308675df4b39e677c367ba611c1dd61ddb3d90f79",
+      "export_sha256": "8312e365152a16e3fa54cfc308675df4b39e677c367ba611c1dd61ddb3d90f79"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-003.md",
+      "source_sha256": "3264a80b9fae9294b7d1234d3c838c0cc1514f4fa61e21985e6dfa67e1970aa1",
+      "export_sha256": "3264a80b9fae9294b7d1234d3c838c0cc1514f4fa61e21985e6dfa67e1970aa1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-004.md",
+      "source_sha256": "d880f18e010c29d1a7f3391d4ef0248030b0f5c5504eb586eb3d8833010f9f8c",
+      "export_sha256": "d880f18e010c29d1a7f3391d4ef0248030b0f5c5504eb586eb3d8833010f9f8c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-005.md",
+      "source_sha256": "c4cd03776b39732d87807cb8382a8bc42a883330fcfe60501f4647250053d1a9",
+      "export_sha256": "c4cd03776b39732d87807cb8382a8bc42a883330fcfe60501f4647250053d1a9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-006.md",
+      "source_sha256": "e6ff750615bbc24ea4475383d9a66643879370357f7639a7923ce20a94b77fdd",
+      "export_sha256": "e6ff750615bbc24ea4475383d9a66643879370357f7639a7923ce20a94b77fdd"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-007.md",
+      "source_sha256": "0e15c3c33d762e1a36f4c1d433c7e449c4974de47f95e0c7b87cfd116802fe9d",
+      "export_sha256": "0e15c3c33d762e1a36f4c1d433c7e449c4974de47f95e0c7b87cfd116802fe9d"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-008.md",
+      "source_sha256": "02c760671d2f575d1025d99401655630082380672bc2dc5d2799e40719d4f5e0",
+      "export_sha256": "02c760671d2f575d1025d99401655630082380672bc2dc5d2799e40719d4f5e0"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-009.md",
+      "source_sha256": "25959cdb0ded5d2dbb9099c2d72ab850143e0339f4dacf5ba4035a70325cd705",
+      "export_sha256": "25959cdb0ded5d2dbb9099c2d72ab850143e0339f4dacf5ba4035a70325cd705"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-010.md",
+      "source_sha256": "bfd541f8bfbc842354b6eebe638818b7b1bb30d1278732e509af07702a4beef8",
+      "export_sha256": "bfd541f8bfbc842354b6eebe638818b7b1bb30d1278732e509af07702a4beef8"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-011.md",
+      "source_sha256": "951d49714343c9073821280d6147349b96785492fd939cd0b12a8418767accb9",
+      "export_sha256": "951d49714343c9073821280d6147349b96785492fd939cd0b12a8418767accb9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-012.md",
+      "source_sha256": "62bde05cdbdf553c70700f3213968f60a61e334ca11ed92da81ceaf11a47462b",
+      "export_sha256": "62bde05cdbdf553c70700f3213968f60a61e334ca11ed92da81ceaf11a47462b"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-013.md",
+      "source_sha256": "f078aebf97f6cbc8e6363d5e150f334694bd31ecdc09a045f544676d6149f0dc",
+      "export_sha256": "f078aebf97f6cbc8e6363d5e150f334694bd31ecdc09a045f544676d6149f0dc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-014.md",
+      "source_sha256": "b7c3ec9b49c685df283dd1b279b58b61a0764a883c2c8c5132c7255e3f005f97",
+      "export_sha256": "b7c3ec9b49c685df283dd1b279b58b61a0764a883c2c8c5132c7255e3f005f97"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-015.md",
+      "source_sha256": "01301d9c9106baa09221d59054fc51b1c46e411946e5371ec694fb84366d88af",
+      "export_sha256": "01301d9c9106baa09221d59054fc51b1c46e411946e5371ec694fb84366d88af"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-016.md",
+      "source_sha256": "d1a1632b0a23e1120a5ce648de2f12484e490d2f3b961284712bc252edae5da1",
+      "export_sha256": "d1a1632b0a23e1120a5ce648de2f12484e490d2f3b961284712bc252edae5da1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-017.md",
+      "source_sha256": "24bf90ad106b97de39c12a0de7acdcab923192c7cecf7c3b6100696174c5f215",
+      "export_sha256": "24bf90ad106b97de39c12a0de7acdcab923192c7cecf7c3b6100696174c5f215"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-018.md",
+      "source_sha256": "b0c6c619c328b0fce4e609b14f0eaf8ddfde27dcb9fbf2614fa1b18ca26d3369",
+      "export_sha256": "b0c6c619c328b0fce4e609b14f0eaf8ddfde27dcb9fbf2614fa1b18ca26d3369"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-019.md",
+      "source_sha256": "4a30c8aea251cabe69e9e8f491ef1d193867402e9d233a1b08771194a4e08cd1",
+      "export_sha256": "4a30c8aea251cabe69e9e8f491ef1d193867402e9d233a1b08771194a4e08cd1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-020.md",
+      "source_sha256": "83139211c53765a6ed1c924c1e930af740ef94f245178e3b8ead6d4a876d47bc",
+      "export_sha256": "83139211c53765a6ed1c924c1e930af740ef94f245178e3b8ead6d4a876d47bc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-021.md",
+      "source_sha256": "79274a4ad2c9663fbb05f5f1b33873147c75af64b9144acbdd01872ee045a2a0",
+      "export_sha256": "79274a4ad2c9663fbb05f5f1b33873147c75af64b9144acbdd01872ee045a2a0"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-022.md",
+      "source_sha256": "172e408282f8a873c77e9203769552ea1382f583c721b392fe323aca9cbeab42",
+      "export_sha256": "172e408282f8a873c77e9203769552ea1382f583c721b392fe323aca9cbeab42"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-023.md",
+      "source_sha256": "7688b2394f8a5235b19ebe3c9691faee153ed88d83ff3a8dbb8614b1361fa1c1",
+      "export_sha256": "7688b2394f8a5235b19ebe3c9691faee153ed88d83ff3a8dbb8614b1361fa1c1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-024.md",
+      "source_sha256": "2745cbc31cfc7ce640ded805a2b51a89279bff7aaa40f7e126bddc57fcee3c1a",
+      "export_sha256": "2745cbc31cfc7ce640ded805a2b51a89279bff7aaa40f7e126bddc57fcee3c1a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-025.md",
+      "source_sha256": "bc537c1d90f683c1f65cd4f7d57e89ff1a0afd90ecba98f9500ec2b35cf48e85",
+      "export_sha256": "bc537c1d90f683c1f65cd4f7d57e89ff1a0afd90ecba98f9500ec2b35cf48e85"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-026.md",
+      "source_sha256": "f82a3818fc46ce490180835509a7cbcfe731712bd96d72442d7cbc2ca2d1bd7f",
+      "export_sha256": "f82a3818fc46ce490180835509a7cbcfe731712bd96d72442d7cbc2ca2d1bd7f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-027.md",
+      "source_sha256": "b1c551a5b5a3b24760aa758fdf863d66887bad3b3d4b99d9172b5073fbed9316",
+      "export_sha256": "b1c551a5b5a3b24760aa758fdf863d66887bad3b3d4b99d9172b5073fbed9316"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-028.md",
+      "source_sha256": "f1b044d1c76b98ad8e01a621ad6a2f0726403ab2add4b8bc4a1ea21ce845e4f3",
+      "export_sha256": "f1b044d1c76b98ad8e01a621ad6a2f0726403ab2add4b8bc4a1ea21ce845e4f3"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-029.md",
+      "source_sha256": "ae1965bddec8ad3779826605c29566144980ccff2ec7a755bec426c3e5a669a4",
+      "export_sha256": "ae1965bddec8ad3779826605c29566144980ccff2ec7a755bec426c3e5a669a4"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-030.md",
+      "source_sha256": "5ab3ae258e88fd652ce0526d280212001976a1d5912573e59074c906b9255c84",
+      "export_sha256": "5ab3ae258e88fd652ce0526d280212001976a1d5912573e59074c906b9255c84"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-031.md",
+      "source_sha256": "a83684f2ca95d3e5c941bcf08013859f0c28d61bb78fd2825c2226f4b8769e64",
+      "export_sha256": "a83684f2ca95d3e5c941bcf08013859f0c28d61bb78fd2825c2226f4b8769e64"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-032.md",
+      "source_sha256": "1d2e448d2b46e15fc9d394706fa906b31ed68a44535406828e2273ebf90bb903",
+      "export_sha256": "1d2e448d2b46e15fc9d394706fa906b31ed68a44535406828e2273ebf90bb903"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-033.md",
+      "source_sha256": "6720004b115fa6d375bb44fffed228718389468350a76a7168eefdcf78ac3563",
+      "export_sha256": "6720004b115fa6d375bb44fffed228718389468350a76a7168eefdcf78ac3563"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-034.md",
+      "source_sha256": "0089d27d008e89bd3bf9ec530aa29444fe81bac77bbede1957e1ae7efaf005bc",
+      "export_sha256": "0089d27d008e89bd3bf9ec530aa29444fe81bac77bbede1957e1ae7efaf005bc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-035.md",
+      "source_sha256": "b8b9cc80e6c94077e03c11e9f2706c1425f2f90ccf48d60ab84638b526a3aef1",
+      "export_sha256": "b8b9cc80e6c94077e03c11e9f2706c1425f2f90ccf48d60ab84638b526a3aef1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-036.md",
+      "source_sha256": "6d3d03899046d6101bb6886d93e00a747141264bd66f41ac545a4e19f3cefeba",
+      "export_sha256": "6d3d03899046d6101bb6886d93e00a747141264bd66f41ac545a4e19f3cefeba"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-037.md",
+      "source_sha256": "fc57c0fa64f6ae21bb3a8a69a859ae868b36d6b8335bef71953a271a0b459023",
+      "export_sha256": "fc57c0fa64f6ae21bb3a8a69a859ae868b36d6b8335bef71953a271a0b459023"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-038.md",
+      "source_sha256": "de365a5566c11ec35bf8325bad942c80c44fc56000277ff3bbe16365c07451d9",
+      "export_sha256": "de365a5566c11ec35bf8325bad942c80c44fc56000277ff3bbe16365c07451d9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-039.md",
+      "source_sha256": "83e87d9760ccad5f9f1df575444b3d4bc896932ee40a9c7badb14e61268f1889",
+      "export_sha256": "83e87d9760ccad5f9f1df575444b3d4bc896932ee40a9c7badb14e61268f1889"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-040.md",
+      "source_sha256": "764ab991506460bee52686ff3f66153cf1286e982c3a9eef8b2dda694bfe72f2",
+      "export_sha256": "764ab991506460bee52686ff3f66153cf1286e982c3a9eef8b2dda694bfe72f2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-041.md",
+      "source_sha256": "30e0c5d31d3540f0ee69aaea08fda413358cecafa66ef734a64402eb38eb8c82",
+      "export_sha256": "30e0c5d31d3540f0ee69aaea08fda413358cecafa66ef734a64402eb38eb8c82"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-042.md",
+      "source_sha256": "4e994d62ce1f6f4483acbe1034f8d623bdd778e0c05a3f6c8b532f2606b2e559",
+      "export_sha256": "4e994d62ce1f6f4483acbe1034f8d623bdd778e0c05a3f6c8b532f2606b2e559"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-043.md",
+      "source_sha256": "43aaa828e0b77cc8ac20d9e929e0e76b3e9a838079505d8700bee102691f8ccf",
+      "export_sha256": "43aaa828e0b77cc8ac20d9e929e0e76b3e9a838079505d8700bee102691f8ccf"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-044.md",
+      "source_sha256": "2d8f461a615d4d9b861701b697512d05c663ae4cc881c4901239dc3d494bf965",
+      "export_sha256": "2d8f461a615d4d9b861701b697512d05c663ae4cc881c4901239dc3d494bf965"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-045.md",
+      "source_sha256": "0f3d65cd585b8351edad23f1de2f002ffe4140e33187dc7b09360450190e708a",
+      "export_sha256": "0f3d65cd585b8351edad23f1de2f002ffe4140e33187dc7b09360450190e708a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-046.md",
+      "source_sha256": "1c5d6171abefecd1679a6a17d9d61da8a1d64b9a4d1e961b4479654adb8c3422",
+      "export_sha256": "1c5d6171abefecd1679a6a17d9d61da8a1d64b9a4d1e961b4479654adb8c3422"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-047.md",
+      "source_sha256": "3b480d756d8852a7c8aee4ed097c75fb4077d82a459aa88565a51f7386439752",
+      "export_sha256": "3b480d756d8852a7c8aee4ed097c75fb4077d82a459aa88565a51f7386439752"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-048.md",
+      "source_sha256": "c12565fc41dcae6bb0f1d261c0a55ece7168d4b473e5d489dead85d92c0d0ef9",
+      "export_sha256": "c12565fc41dcae6bb0f1d261c0a55ece7168d4b473e5d489dead85d92c0d0ef9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-049.md",
+      "source_sha256": "000cc974186384d5903a6efb79004d574a03aa35956ee3fcb3507480f090d0ea",
+      "export_sha256": "000cc974186384d5903a6efb79004d574a03aa35956ee3fcb3507480f090d0ea"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-050.md",
+      "source_sha256": "74411c242600e2c02f1464f2563b2f00f718c86693547c6786c0c8deca95787a",
+      "export_sha256": "74411c242600e2c02f1464f2563b2f00f718c86693547c6786c0c8deca95787a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-051.md",
+      "source_sha256": "0f2abe2e6f06f404f210c19d46bca9540c6d054290b88a9a0a5b9d29434f257d",
+      "export_sha256": "0f2abe2e6f06f404f210c19d46bca9540c6d054290b88a9a0a5b9d29434f257d"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-052.md",
+      "source_sha256": "bb2bd6b3ee33c5a3b12b5054d83fd9f95f7b55fc3b77df33eb72b16e505005d7",
+      "export_sha256": "bb2bd6b3ee33c5a3b12b5054d83fd9f95f7b55fc3b77df33eb72b16e505005d7"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-053.md",
+      "source_sha256": "de8cce6d3ba1b0f5f596925982e40d1d91f75254fdac5ec111b374343075d7d2",
+      "export_sha256": "de8cce6d3ba1b0f5f596925982e40d1d91f75254fdac5ec111b374343075d7d2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-054.md",
+      "source_sha256": "aab672fd57b8a66b98da20e4f4eab139abdede3731a035b8fa84afaeccb9a308",
+      "export_sha256": "aab672fd57b8a66b98da20e4f4eab139abdede3731a035b8fa84afaeccb9a308"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-055.md",
+      "source_sha256": "a54917df7c1319ebe53a2a2e95a511aed1f3123347bc529956057cb7a19b7fd3",
+      "export_sha256": "a54917df7c1319ebe53a2a2e95a511aed1f3123347bc529956057cb7a19b7fd3"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-056.md",
+      "source_sha256": "efda1984e04145620b4cb3ecd18e54c2312e9d857e7faf132911ce6edaab5f6f",
+      "export_sha256": "efda1984e04145620b4cb3ecd18e54c2312e9d857e7faf132911ce6edaab5f6f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-057.md",
+      "source_sha256": "e59f99da0dbbc7f4482fb416e182030594414b72fc6923143f516e249b6ad589",
+      "export_sha256": "e59f99da0dbbc7f4482fb416e182030594414b72fc6923143f516e249b6ad589"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-058.md",
+      "source_sha256": "1fbc6deccc074ac05990d6e28f2568c93db0b047c3b7f356f2af7592b124d8b2",
+      "export_sha256": "1fbc6deccc074ac05990d6e28f2568c93db0b047c3b7f356f2af7592b124d8b2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-059.md",
+      "source_sha256": "e7164493ebb41384f2a1f20b0e05ddafcf7c07f2cf2a0c7cb702a20819f1eb68",
+      "export_sha256": "e7164493ebb41384f2a1f20b0e05ddafcf7c07f2cf2a0c7cb702a20819f1eb68"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/prj/PRJ-060.md",
+      "source_sha256": "9d0029e9e3e7a24f82d894585cc59e52b31636c7ef0eb24d40bd59fc5c8373c1",
+      "export_sha256": "9d0029e9e3e7a24f82d894585cc59e52b31636c7ef0eb24d40bd59fc5c8373c1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-001.md",
+      "source_sha256": "7931f7b5abd30dccbe77b1684854ebcbeb5cf21cbb0e123f94b7c8c92b90d298",
+      "export_sha256": "7931f7b5abd30dccbe77b1684854ebcbeb5cf21cbb0e123f94b7c8c92b90d298"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-002.md",
+      "source_sha256": "000ea43ff5c349a36dc7e3aa3244ec7e371bbc00c2cc4f48db24bdf7d5adbe2d",
+      "export_sha256": "000ea43ff5c349a36dc7e3aa3244ec7e371bbc00c2cc4f48db24bdf7d5adbe2d"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-003.md",
+      "source_sha256": "d1872ae179bf822990a63b4e7edc575c69f955cd6c25d0178680ce97768f970b",
+      "export_sha256": "d1872ae179bf822990a63b4e7edc575c69f955cd6c25d0178680ce97768f970b"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-004.md",
+      "source_sha256": "3c059d625c225aaeb5d6379c9e56a68cd8ff275c391f70ef7fed0b12a5bcc506",
+      "export_sha256": "3c059d625c225aaeb5d6379c9e56a68cd8ff275c391f70ef7fed0b12a5bcc506"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-005.md",
+      "source_sha256": "0c50c361d0569f8a310f6b11469d05c888b93dce966f0250c874112c4824924c",
+      "export_sha256": "0c50c361d0569f8a310f6b11469d05c888b93dce966f0250c874112c4824924c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-006.md",
+      "source_sha256": "217bf31ffb77e6572e3c56343bce6089ec45706878059f9e74d207136b0da95b",
+      "export_sha256": "217bf31ffb77e6572e3c56343bce6089ec45706878059f9e74d207136b0da95b"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-007.md",
+      "source_sha256": "870a23abcde79c5ad9a58e9d0dd14f5f46f2391c51853782743ce796afa934bb",
+      "export_sha256": "870a23abcde79c5ad9a58e9d0dd14f5f46f2391c51853782743ce796afa934bb"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-008.md",
+      "source_sha256": "c3f8ec040516e4387e08c3bf2d89d873e292ccdeca4b18b8fa1e65eefaf935fd",
+      "export_sha256": "c3f8ec040516e4387e08c3bf2d89d873e292ccdeca4b18b8fa1e65eefaf935fd"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-009.md",
+      "source_sha256": "3fff772f5f57e4af6949c6a56eae0abdadd5a32f9c40de1b0f42ba96664f6e6b",
+      "export_sha256": "3fff772f5f57e4af6949c6a56eae0abdadd5a32f9c40de1b0f42ba96664f6e6b"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-010.md",
+      "source_sha256": "9b39492c8576cb60dfd9af0294151a3c80a3012423e93735c27e041669767d21",
+      "export_sha256": "9b39492c8576cb60dfd9af0294151a3c80a3012423e93735c27e041669767d21"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-011.md",
+      "source_sha256": "a5301459f817069e853caac5d459647153be27f807c8d813d26f07cbd3562e1a",
+      "export_sha256": "a5301459f817069e853caac5d459647153be27f807c8d813d26f07cbd3562e1a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-012.md",
+      "source_sha256": "926da075ae98e390a7973556a366b76cbe8d54ace472f0d0362c63cef3f3ce2e",
+      "export_sha256": "926da075ae98e390a7973556a366b76cbe8d54ace472f0d0362c63cef3f3ce2e"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-013.md",
+      "source_sha256": "a7b66e9e7241f137da65863bff06e264b14abbfeea85d95d892d467318d3152f",
+      "export_sha256": "a7b66e9e7241f137da65863bff06e264b14abbfeea85d95d892d467318d3152f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-014.md",
+      "source_sha256": "f91f15885d68234bab225a58ba8ac1b3788050a0754bf19c42dd9f80024b84a6",
+      "export_sha256": "f91f15885d68234bab225a58ba8ac1b3788050a0754bf19c42dd9f80024b84a6"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-015.md",
+      "source_sha256": "77bdf4e83543a670014e93c996d6c7b023eaa1c92b566f0074194ddb946086bf",
+      "export_sha256": "77bdf4e83543a670014e93c996d6c7b023eaa1c92b566f0074194ddb946086bf"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-016.md",
+      "source_sha256": "6a79d1e9463d6fc3af82eb86951898f4649d4838c1f0a091f6dd8e37a7c463ed",
+      "export_sha256": "6a79d1e9463d6fc3af82eb86951898f4649d4838c1f0a091f6dd8e37a7c463ed"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-017.md",
+      "source_sha256": "653d3deb46539bc635d1209ba69e349cbcb6f2c5df0cbedaffbfaa4064587a27",
+      "export_sha256": "653d3deb46539bc635d1209ba69e349cbcb6f2c5df0cbedaffbfaa4064587a27"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-018.md",
+      "source_sha256": "01e52f49ab5980d551df5f084764003de9d6301e08215c19b1d344c4e44ca41c",
+      "export_sha256": "01e52f49ab5980d551df5f084764003de9d6301e08215c19b1d344c4e44ca41c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-019.md",
+      "source_sha256": "c2a68ec57ad4f783905328204f7eac900b415ba25ea82ad7f69e618755d8c05c",
+      "export_sha256": "c2a68ec57ad4f783905328204f7eac900b415ba25ea82ad7f69e618755d8c05c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-020.md",
+      "source_sha256": "420ca302126a74d59d8e2692dd51080408c0217ca83e4c2e4926b4fce4af78be",
+      "export_sha256": "420ca302126a74d59d8e2692dd51080408c0217ca83e4c2e4926b4fce4af78be"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-021.md",
+      "source_sha256": "7c596b7ca9ed58af28caa69d11b5b864664e3c9bb730b2755401346421642d6b",
+      "export_sha256": "7c596b7ca9ed58af28caa69d11b5b864664e3c9bb730b2755401346421642d6b"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-022.md",
+      "source_sha256": "d9d92be8fca571d8248732acd73bb5eeaa3940a156654b65d2c13812afb9eea7",
+      "export_sha256": "d9d92be8fca571d8248732acd73bb5eeaa3940a156654b65d2c13812afb9eea7"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-023.md",
+      "source_sha256": "bea45ced9bcd3498f9f331614ac02a6b20111595ef60403f61af0229367c7b0e",
+      "export_sha256": "bea45ced9bcd3498f9f331614ac02a6b20111595ef60403f61af0229367c7b0e"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-024.md",
+      "source_sha256": "ad8f1d65d85b04e4674664daedccdb9caf83611eaf881a51eb8df9f6f6146307",
+      "export_sha256": "ad8f1d65d85b04e4674664daedccdb9caf83611eaf881a51eb8df9f6f6146307"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-025.md",
+      "source_sha256": "ac06b99f8cdd2fd2341c7d3272fd38ea8ea0a64bfe3f9685f8c6523429a711da",
+      "export_sha256": "ac06b99f8cdd2fd2341c7d3272fd38ea8ea0a64bfe3f9685f8c6523429a711da"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-026.md",
+      "source_sha256": "70f70ca9f05a383e8b25748315ef8b11d04f9c3ceee7670714660c5f3e5e4fe6",
+      "export_sha256": "70f70ca9f05a383e8b25748315ef8b11d04f9c3ceee7670714660c5f3e5e4fe6"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-027.md",
+      "source_sha256": "cdc28eb58c770ccf9c470fbd845c3dd66b393171595d73a860f883c8a7698aed",
+      "export_sha256": "cdc28eb58c770ccf9c470fbd845c3dd66b393171595d73a860f883c8a7698aed"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-028.md",
+      "source_sha256": "012372b0f48d4e52a543fb6db59c6bafc2ddadf103ae6e002fb6f5993b6e7400",
+      "export_sha256": "012372b0f48d4e52a543fb6db59c6bafc2ddadf103ae6e002fb6f5993b6e7400"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-029.md",
+      "source_sha256": "6e0be88f375dd6a2f2b12f89448552cfd1548941d3aef8730b04b1a4a311c665",
+      "export_sha256": "6e0be88f375dd6a2f2b12f89448552cfd1548941d3aef8730b04b1a4a311c665"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-030.md",
+      "source_sha256": "746de0ab4aec0dbfed3d1444b28cdf7bcec8f57c9d45030a0866297b834b6691",
+      "export_sha256": "746de0ab4aec0dbfed3d1444b28cdf7bcec8f57c9d45030a0866297b834b6691"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-031.md",
+      "source_sha256": "4fa57daa0be02577dfbc80db9cce31b794e6ce205ac65682fe56d15d5a983451",
+      "export_sha256": "4fa57daa0be02577dfbc80db9cce31b794e6ce205ac65682fe56d15d5a983451"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-032.md",
+      "source_sha256": "6381ac9f2341401c9790d8c79b56bdad965aa56e4caa85c701a49f90125898e0",
+      "export_sha256": "6381ac9f2341401c9790d8c79b56bdad965aa56e4caa85c701a49f90125898e0"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-033.md",
+      "source_sha256": "b528017206e82464854027f5d8a3cc2c14d1d400f6d2afa28ea89e594142ef1f",
+      "export_sha256": "b528017206e82464854027f5d8a3cc2c14d1d400f6d2afa28ea89e594142ef1f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-034.md",
+      "source_sha256": "516ad9a01506802edcddf2bc33f6640fea0d75dec9d4e2ac54914ed64353f363",
+      "export_sha256": "516ad9a01506802edcddf2bc33f6640fea0d75dec9d4e2ac54914ed64353f363"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-035.md",
+      "source_sha256": "4a411bc6da4980b471ab7bf9f2da04ad541448b802ece643d90d8f8826d4a1e2",
+      "export_sha256": "4a411bc6da4980b471ab7bf9f2da04ad541448b802ece643d90d8f8826d4a1e2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-036.md",
+      "source_sha256": "9cfe0bcccad1abfae7efbf04c210fb953647e960f2480687645da504d614e037",
+      "export_sha256": "9cfe0bcccad1abfae7efbf04c210fb953647e960f2480687645da504d614e037"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-037.md",
+      "source_sha256": "73a1928af1f545dd949ae792b5d1940d8593eb14fc3e8f20e9ccf54ef37cb16b",
+      "export_sha256": "73a1928af1f545dd949ae792b5d1940d8593eb14fc3e8f20e9ccf54ef37cb16b"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-038.md",
+      "source_sha256": "0077622370b6642befc45fd4e76a1307a42dbe841b2f4f98107989cf978ca49c",
+      "export_sha256": "0077622370b6642befc45fd4e76a1307a42dbe841b2f4f98107989cf978ca49c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-039.md",
+      "source_sha256": "87190ced6922cda49a7a95fa52f95058eba697b8bcd13bf9d3f7dccfe99b24d2",
+      "export_sha256": "87190ced6922cda49a7a95fa52f95058eba697b8bcd13bf9d3f7dccfe99b24d2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-040.md",
+      "source_sha256": "dc142ed4b2c308c41ae226f575844580606baeb6c3c741ef66ad84405f0a4d2c",
+      "export_sha256": "dc142ed4b2c308c41ae226f575844580606baeb6c3c741ef66ad84405f0a4d2c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-041.md",
+      "source_sha256": "222151232a80985a3cfca957b5544f89b6ff0ba3fac9bca2c6411bef76717fb8",
+      "export_sha256": "222151232a80985a3cfca957b5544f89b6ff0ba3fac9bca2c6411bef76717fb8"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-042.md",
+      "source_sha256": "5860005d9d89f7c0e2a8d8e46f40e42915d690440474acc7c323e3843ff343a0",
+      "export_sha256": "5860005d9d89f7c0e2a8d8e46f40e42915d690440474acc7c323e3843ff343a0"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-043.md",
+      "source_sha256": "3b79a947cb3939443ec209df36942aeb912fda5a835c4b6d6cbbf3ab870765ce",
+      "export_sha256": "3b79a947cb3939443ec209df36942aeb912fda5a835c4b6d6cbbf3ab870765ce"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-044.md",
+      "source_sha256": "6db8d3f2143b72f86bba780066aaf030a95724b3873c4036a717c25c98d269ab",
+      "export_sha256": "6db8d3f2143b72f86bba780066aaf030a95724b3873c4036a717c25c98d269ab"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-045.md",
+      "source_sha256": "2f256f2c56f60998cdbb24ce56a49a307dca92a996a1cf0a3df25cf3a480fa04",
+      "export_sha256": "2f256f2c56f60998cdbb24ce56a49a307dca92a996a1cf0a3df25cf3a480fa04"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-046.md",
+      "source_sha256": "d022017a792f349181fcfaa04989f5ad81d43892ab1940f5da16378f71d97a91",
+      "export_sha256": "d022017a792f349181fcfaa04989f5ad81d43892ab1940f5da16378f71d97a91"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-047.md",
+      "source_sha256": "8ded60585e8244f61f1a7b88b7cdc72ef2a59ec59a569068fe1571650443d366",
+      "export_sha256": "8ded60585e8244f61f1a7b88b7cdc72ef2a59ec59a569068fe1571650443d366"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-048.md",
+      "source_sha256": "eecba54818bc0caa87929b50d42814d3816cf2da985543278a98be14a9221c7c",
+      "export_sha256": "eecba54818bc0caa87929b50d42814d3816cf2da985543278a98be14a9221c7c"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-049.md",
+      "source_sha256": "a50803edc0308d714da56e71cab71063674cdee3b5a2af4a49f9d6a38f7b055f",
+      "export_sha256": "a50803edc0308d714da56e71cab71063674cdee3b5a2af4a49f9d6a38f7b055f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-050.md",
+      "source_sha256": "2a5b9807c011764ed39dd789065bdc757ca32e6fc024a28a0a43c7e873b2d457",
+      "export_sha256": "2a5b9807c011764ed39dd789065bdc757ca32e6fc024a28a0a43c7e873b2d457"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-051.md",
+      "source_sha256": "bd0fb2344c641f1c11eeed348c0f59d1775485d925ed6efb1f940ac829901c66",
+      "export_sha256": "bd0fb2344c641f1c11eeed348c0f59d1775485d925ed6efb1f940ac829901c66"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-052.md",
+      "source_sha256": "cf9af6c9601861217f13d0b9569d3931805dbb4e11cba273651053e209ffe688",
+      "export_sha256": "cf9af6c9601861217f13d0b9569d3931805dbb4e11cba273651053e209ffe688"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-053.md",
+      "source_sha256": "ba46a88219295f77fca23a4d3785f1405ebbc092f397f951807951d17a796251",
+      "export_sha256": "ba46a88219295f77fca23a4d3785f1405ebbc092f397f951807951d17a796251"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-054.md",
+      "source_sha256": "3f84abb4407fa3c0660c797451f18ec4f4e5825bb5b35a448de006046fbab2ca",
+      "export_sha256": "3f84abb4407fa3c0660c797451f18ec4f4e5825bb5b35a448de006046fbab2ca"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-055.md",
+      "source_sha256": "0fc619c67d9fa8bdec1f4ce26f57eb7254b29c2213c3d46a6beb8f6a6e02a133",
+      "export_sha256": "0fc619c67d9fa8bdec1f4ce26f57eb7254b29c2213c3d46a6beb8f6a6e02a133"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-056.md",
+      "source_sha256": "0ff9d6e68cc8ffa109c57d517c08a1607b50e6d47eda3cb6d236dae134d7acdc",
+      "export_sha256": "0ff9d6e68cc8ffa109c57d517c08a1607b50e6d47eda3cb6d236dae134d7acdc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-057.md",
+      "source_sha256": "4a38a082bbc8da376690709203b5fa1b66c8044d024efcf00c0849cc3fcb86af",
+      "export_sha256": "4a38a082bbc8da376690709203b5fa1b66c8044d024efcf00c0849cc3fcb86af"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-058.md",
+      "source_sha256": "d31086c25f12980657fc512671eac96fa24d9af5b266117a2f9ea65c73913de8",
+      "export_sha256": "d31086c25f12980657fc512671eac96fa24d9af5b266117a2f9ea65c73913de8"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-059.md",
+      "source_sha256": "024ebdf63a286cf2fec41a353fca4ce2a0dbba1f500a674dbbe8762d69cda814",
+      "export_sha256": "024ebdf63a286cf2fec41a353fca4ce2a0dbba1f500a674dbbe8762d69cda814"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-060.md",
+      "source_sha256": "5da373b03e5e248cd3d92e9fa110f215b9608c75b4f254b3b0bf0715e86567b9",
+      "export_sha256": "5da373b03e5e248cd3d92e9fa110f215b9608c75b4f254b3b0bf0715e86567b9"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-061.md",
+      "source_sha256": "427862aab5f1876ff8cf18ae16013f015b2fc9b3abf4160885d482cc024f2880",
+      "export_sha256": "427862aab5f1876ff8cf18ae16013f015b2fc9b3abf4160885d482cc024f2880"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-062.md",
+      "source_sha256": "3cc1fd622cbaea65678b02c51786d9da7ab3d91fa2c5a99ddac1fa5dfb39a6de",
+      "export_sha256": "3cc1fd622cbaea65678b02c51786d9da7ab3d91fa2c5a99ddac1fa5dfb39a6de"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-063.md",
+      "source_sha256": "c97163ed725e0877e133553e569967bcef21d92761042db6d9357cfc39054495",
+      "export_sha256": "c97163ed725e0877e133553e569967bcef21d92761042db6d9357cfc39054495"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-064.md",
+      "source_sha256": "97173e137b67ac80ade94bdb76f5191e4d26df7a0ed5ba1fdf680fea21206ee1",
+      "export_sha256": "97173e137b67ac80ade94bdb76f5191e4d26df7a0ed5ba1fdf680fea21206ee1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-065.md",
+      "source_sha256": "e1a1657924a44c4e9d53d8231a27d5165cac81ee4310b59adaf23f8f2bc54674",
+      "export_sha256": "e1a1657924a44c4e9d53d8231a27d5165cac81ee4310b59adaf23f8f2bc54674"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-066.md",
+      "source_sha256": "3896b5f2c84d411637f4ead78c1ff731afd8b5010937a2f17efd9155915787c8",
+      "export_sha256": "3896b5f2c84d411637f4ead78c1ff731afd8b5010937a2f17efd9155915787c8"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-067.md",
+      "source_sha256": "e62ef8d5142c016ed3acd7e2f92781397938aff4ccdc33211c37bcad72d4d7e1",
+      "export_sha256": "e62ef8d5142c016ed3acd7e2f92781397938aff4ccdc33211c37bcad72d4d7e1"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/ptn/PTN-068.md",
+      "source_sha256": "840555f9cbeb4305721c2271ff53fe2a9113ac0cdd355cf0bc86b4c3d2912bfa",
+      "export_sha256": "840555f9cbeb4305721c2271ff53fe2a9113ac0cdd355cf0bc86b4c3d2912bfa"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-001.md",
+      "source_sha256": "47d9c98fde917c10c2772a3476df02a552a70b038f19c373ac8bfbc3dfddbe23",
+      "export_sha256": "47d9c98fde917c10c2772a3476df02a552a70b038f19c373ac8bfbc3dfddbe23"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-002.md",
+      "source_sha256": "e9052d048c1452864cfa64ecae4afb2ee7010139e8aa4531aeab659be4f59184",
+      "export_sha256": "e9052d048c1452864cfa64ecae4afb2ee7010139e8aa4531aeab659be4f59184"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-003.md",
+      "source_sha256": "0bd8f45df67f4ddf39acf860ed38bb76ee585d8c7b5971d19c33462beaa25658",
+      "export_sha256": "0bd8f45df67f4ddf39acf860ed38bb76ee585d8c7b5971d19c33462beaa25658"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-004.md",
+      "source_sha256": "6378f8bb486db73a6e2e1eb0bfd94774552f99533dc7614a64d4fe6215053952",
+      "export_sha256": "6378f8bb486db73a6e2e1eb0bfd94774552f99533dc7614a64d4fe6215053952"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-005.md",
+      "source_sha256": "c89933aec455dda2c181e60afd3b5d6d9940a5b40df2775fb8b8737cf56dd78f",
+      "export_sha256": "c89933aec455dda2c181e60afd3b5d6d9940a5b40df2775fb8b8737cf56dd78f"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-006.md",
+      "source_sha256": "3e0fe8b84184aa1faf1f5f3a0fea2cba291c09af83e0a8ca3acfcd6b3e792c59",
+      "export_sha256": "3e0fe8b84184aa1faf1f5f3a0fea2cba291c09af83e0a8ca3acfcd6b3e792c59"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-007.md",
+      "source_sha256": "4990597e3d01c590b0174b12982a6abbae526d976682da475b2e4790c758bcb0",
+      "export_sha256": "4990597e3d01c590b0174b12982a6abbae526d976682da475b2e4790c758bcb0"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-008.md",
+      "source_sha256": "dc95292bfaff8cbc49c40a1177acff0d828d55eb1c04c9a63287d9a7a5ce1772",
+      "export_sha256": "dc95292bfaff8cbc49c40a1177acff0d828d55eb1c04c9a63287d9a7a5ce1772"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-009.md",
+      "source_sha256": "b47277b2a2cdb71eb080cf28eb706b2fc7595440e12e12fef394e6261e5d1b03",
+      "export_sha256": "b47277b2a2cdb71eb080cf28eb706b2fc7595440e12e12fef394e6261e5d1b03"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-010.md",
+      "source_sha256": "1cbb387e06bd9e13567b0db471a30a6a853f9d3141a95bb3ab23ce0685c047fc",
+      "export_sha256": "1cbb387e06bd9e13567b0db471a30a6a853f9d3141a95bb3ab23ce0685c047fc"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-011.md",
+      "source_sha256": "57d401c03f8b10fc4aa029db861b8923c33fd3f679c43c947994ea18ff71c9d3",
+      "export_sha256": "57d401c03f8b10fc4aa029db861b8923c33fd3f679c43c947994ea18ff71c9d3"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-012.md",
+      "source_sha256": "46e7bce1db8c2ae08ebc79349bb6401f9bc79a5cced228bdd25fe408ad32b46a",
+      "export_sha256": "46e7bce1db8c2ae08ebc79349bb6401f9bc79a5cced228bdd25fe408ad32b46a"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-013.md",
+      "source_sha256": "ffe4b1b4c287e23326d443b1925c7d94dcd973c156f7bc83fb91153c307ef4d2",
+      "export_sha256": "ffe4b1b4c287e23326d443b1925c7d94dcd973c156f7bc83fb91153c307ef4d2"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-014.md",
+      "source_sha256": "8a451631beb3af8211713fcad6c94be0abe44f2d3aa7906052547664d1804be3",
+      "export_sha256": "8a451631beb3af8211713fcad6c94be0abe44f2d3aa7906052547664d1804be3"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-015.md",
+      "source_sha256": "084409aeebe752a26e3c0a4947f4f9275ff58be2519ebc32c02a7db6dcdff0fd",
+      "export_sha256": "084409aeebe752a26e3c0a4947f4f9275ff58be2519ebc32c02a7db6dcdff0fd"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-016.md",
+      "source_sha256": "66f427161bb5b8b6ca792e604204c7bc6d7ae6a3cf0bc75f8f6a0a6d7c99a1f8",
+      "export_sha256": "66f427161bb5b8b6ca792e604204c7bc6d7ae6a3cf0bc75f8f6a0a6d7c99a1f8"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-017.md",
+      "source_sha256": "018fb3c8a2b3cbc43937a56a4a4474cd080dd6d65bb93d86210fd8dbc973dcac",
+      "export_sha256": "018fb3c8a2b3cbc43937a56a4a4474cd080dd6d65bb93d86210fd8dbc973dcac"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-018.md",
+      "source_sha256": "244f8f677dcfe653515a8ddc745b8a83f9a82eb1cd459acfa816c04465c1cf22",
+      "export_sha256": "244f8f677dcfe653515a8ddc745b8a83f9a82eb1cd459acfa816c04465c1cf22"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-019.md",
+      "source_sha256": "90c11ed1aa6e29ab696908eeca1fcc49a0dcfc4cb075a7d129bebdd8341a22f5",
+      "export_sha256": "90c11ed1aa6e29ab696908eeca1fcc49a0dcfc4cb075a7d129bebdd8341a22f5"
+    },
+    {
+      "vault_id": "project-inspiration",
+      "path": "30-cards/risk/RISK-020.md",
+      "source_sha256": "5b0e624a29befc1f44d4c4f04a7674e0e3b0fb409dba445a3d440c4d9de8db13",
+      "export_sha256": "5b0e624a29befc1f44d4c4f04a7674e0e3b0fb409dba445a3d440c4d9de8db13"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/agent-handoff-terminal-mock/index.md",
+      "source_sha256": "47dceed245299c45b3b19ce78b282a9484e9c2e83570da279e738a92311b2971",
+      "export_sha256": "47dceed245299c45b3b19ce78b282a9484e9c2e83570da279e738a92311b2971"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/animate-ui-files/index.md",
+      "source_sha256": "e66c68c871e3ff6cda0e45b268810a9be5a0f9fad2c6a17613947766de0cbf2d",
+      "export_sha256": "e66c68c871e3ff6cda0e45b268810a9be5a0f9fad2c6a17613947766de0cbf2d"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/before-after-visual-proof/index.md",
+      "source_sha256": "7fde85afcf511c476ca02af159b58e7ca6327ab0a515a593d8cdf7525ebbd3fd",
+      "export_sha256": "7fde85afcf511c476ca02af159b58e7ca6327ab0a515a593d8cdf7525ebbd3fd"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/bento-grid-feature-layout/index.md",
+      "source_sha256": "ec8ece802259753fd9c29fc6a29a9fdecfbce9b010e383bce75501088f4a8bf4",
+      "export_sha256": "ec8ece802259753fd9c29fc6a29a9fdecfbce9b010e383bce75501088f4a8bf4"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/blog-article-type-router/index.md",
+      "source_sha256": "6ac814fa2670024b53d9a81908709cceb5100fbbc6dcc8e1fed81c4314de4d80",
+      "export_sha256": "6ac814fa2670024b53d9a81908709cceb5100fbbc6dcc8e1fed81c4314de4d80"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/broadcast-ui-portfolio/index.md",
+      "source_sha256": "2507e6d09532d2552bad2ad02a746415b3aa0e32712ecde0eac9ac1ac068f424",
+      "export_sha256": "2507e6d09532d2552bad2ad02a746415b3aa0e32712ecde0eac9ac1ac068f424"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/card-spotlight-hover/index.md",
+      "source_sha256": "19251a31eb36e908b557be2d5bfce54538df24e4ed5695f20fb65785fc495bf7",
+      "export_sha256": "19251a31eb36e908b557be2d5bfce54538df24e4ed5695f20fb65785fc495bf7"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/code-typing-demo/index.md",
+      "source_sha256": "68f07c46fe0589478a1d0bca7c017378b1a905e53661f8cca755538284627109",
+      "export_sha256": "68f07c46fe0589478a1d0bca7c017378b1a905e53661f8cca755538284627109"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/editorial-automotive-luxury/index.md",
+      "source_sha256": "e41afa038f12c9fedde5fe3317c10678a2bb1961d85a2f54439571ad95b61285",
+      "export_sha256": "e41afa038f12c9fedde5fe3317c10678a2bb1961d85a2f54439571ad95b61285"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/first-person-experiential-home/index.md",
+      "source_sha256": "0daa7aac61f91674bea0e5a03ff307d5e63c31c25df3443c3f11a86accbd10ac",
+      "export_sha256": "0daa7aac61f91674bea0e5a03ff307d5e63c31c25df3443c3f11a86accbd10ac"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/globe-3d-data-visual/index.md",
+      "source_sha256": "a9ae72b117386f2cf4043fb1ee68a1811815bb7d4c0afa5e61cac59290dad068",
+      "export_sha256": "a9ae72b117386f2cf4043fb1ee68a1811815bb7d4c0afa5e61cac59290dad068"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/immersive-music-site/index.md",
+      "source_sha256": "8ed0ae0e14ae96cb72e537754186bf54a87c3dcff35cb86ea51e747e08073526",
+      "export_sha256": "8ed0ae0e14ae96cb72e537754186bf54a87c3dcff35cb86ea51e747e08073526"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/interactive-blueprint-hero/index.md",
+      "source_sha256": "5ebb80054cfbb31075f51d81b86b28e9865e525d60f6ac8d900e7954e558f778",
+      "export_sha256": "5ebb80054cfbb31075f51d81b86b28e9865e525d60f6ac8d900e7954e558f778"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/interactive-brand-game/index.md",
+      "source_sha256": "ecde8c94b2f961f62f600878d113b646a16e9994b32f0207ba6ba2aa0e1913ed",
+      "export_sha256": "ecde8c94b2f961f62f600878d113b646a16e9994b32f0207ba6ba2aa0e1913ed"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/interactive-brand-guidelines/index.md",
+      "source_sha256": "a61d84ca6368848e5e48a1b8cd87a940f77499c7b2e1f9876e1fb5b5983e8584",
+      "export_sha256": "a61d84ca6368848e5e48a1b8cd87a940f77499c7b2e1f9876e1fb5b5983e8584"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/marquee-infinite-flow/index.md",
+      "source_sha256": "7ff80db984cf9b5f3bc92869dcebd2107218a614e529a238c775019ef5459fa6",
+      "export_sha256": "7ff80db984cf9b5f3bc92869dcebd2107218a614e529a238c775019ef5459fa6"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/media-first-neutral-shell/index.md",
+      "source_sha256": "36b443b7ac7cf569fc52cca8b702e44f782b757add9753b34222d78206fe0de8",
+      "export_sha256": "36b443b7ac7cf569fc52cca8b702e44f782b757add9753b34222d78206fe0de8"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/narrative-step-product-story/index.md",
+      "source_sha256": "2fc546ef7d486a0faa0717677b512733ba5048a5684a4dceb820978847dcb4c8",
+      "export_sha256": "2fc546ef7d486a0faa0717677b512733ba5048a5684a4dceb820978847dcb4c8"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/node-graph-brand-language/index.md",
+      "source_sha256": "9066ce66eb1e2cf30a722a957425138645153e486c0bd1378e48b2f832d57169",
+      "export_sha256": "9066ce66eb1e2cf30a722a957425138645153e486c0bd1378e48b2f832d57169"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/one-rule-visual-system/index.md",
+      "source_sha256": "cc90599d9a98bf7ced49297297ccada87139b9fe404da71cd360b2960b355cd3",
+      "export_sha256": "cc90599d9a98bf7ced49297297ccada87139b9fe404da71cd360b2960b355cd3"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/persona-driven-demo-presets/index.md",
+      "source_sha256": "04a61d11ad55b2c92f572322605f6446543e8faad66ae1f1ec0f639b0e2b122b",
+      "export_sha256": "04a61d11ad55b2c92f572322605f6446543e8faad66ae1f1ec0f639b0e2b122b"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/pricing-compare-matrix/index.md",
+      "source_sha256": "9baf6d6d1e1c14efbe4f7ae777ee7cb1032824380539b841b631db9e2dd30710",
+      "export_sha256": "9baf6d6d1e1c14efbe4f7ae777ee7cb1032824380539b841b631db9e2dd30710"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/progressive-node-assembly/index.md",
+      "source_sha256": "62476c6ce3c03e03f4e19817f531d876ad0ba6095e2eaa01995720b3b2522fbe",
+      "export_sha256": "62476c6ce3c03e03f4e19817f531d876ad0ba6095e2eaa01995720b3b2522fbe"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/reusable-product-subpage-template/index.md",
+      "source_sha256": "6c24a945eddeb08958687766eb6e487bb051af0c72d425b9108d3dac7f9ccf4c",
+      "export_sha256": "6c24a945eddeb08958687766eb6e487bb051af0c72d425b9108d3dac7f9ccf4c"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/semantic-danger-accent/index.md",
+      "source_sha256": "b310b8873619cb5bc3d89344782dced0c27852742b003c704bb2b67ca68a4a1e",
+      "export_sha256": "b310b8873619cb5bc3d89344782dced0c27852742b003c704bb2b67ca68a4a1e"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/shader-hero-abstract/index.md",
+      "source_sha256": "680f18bf853851945f579fef0fefbb841c3a1d2e7eaf442546731c34f5f7cc4d",
+      "export_sha256": "680f18bf853851945f579fef0fefbb841c3a1d2e7eaf442546731c34f5f7cc4d"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/spotlight-hero-background/index.md",
+      "source_sha256": "e4b9e23959b866936cdbe854c85d82f1d8dce4bbf603dcdcfc7457d3325c10b8",
+      "export_sha256": "e4b9e23959b866936cdbe854c85d82f1d8dce4bbf603dcdcfc7457d3325c10b8"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/transcript-diff-visualization/index.md",
+      "source_sha256": "3091f5d8b4b9403250756d0c9535d6574cef75ec42681a196d0605c3efae2c31",
+      "export_sha256": "3091f5d8b4b9403250756d0c9535d6574cef75ec42681a196d0605c3efae2c31"
+    },
+    {
+      "vault_id": "frontend-design",
+      "path": "content/knowledge/webgl-scroll-cinema/index.md",
+      "source_sha256": "98183a32ff989e2bccb22a98b9466df339aa087365df1d01ee2f5815b81b6be2",
+      "export_sha256": "98183a32ff989e2bccb22a98b9466df339aa087365df1d01ee2f5815b81b6be2"
+    }
+  ],
+  "files": {
+    "index.html": "3b0d616d1035375288d790f2df128c7a3ae1a0e87bb0bde138bdab35d0a1b284",
+    "app.js": "40075d07418738e6f9274c354159e636291accec3cbadb9cb392a0c8aa6369a0",
+    "app.css": "66a25fb755ea889edf7550bb37e31ed9481b596573b8634c75506755f12d0937",
+    "snapshot-data/descriptions/agent-related.json": "cb7ef9c6ed7070fc5524b5e3d6239229b5bec7cd418ce6041f4963e0ce94fd2e",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-004-hook-title-formula.md": "31474ad554b62fa267b81b31a082e9bdc04aabe5f99fe378448e087199ac64e6",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-005-contrast-review-structure.md": "b085b4513037ada66e8fe73af18c171386ffc486e48630c7bba1f5c7f78cae65",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-006-voiceover-pacing-peaks.md": "c62e8ffea269c4d4452bc5693e8756e8bf6894928b2aa08ed080ea7306cf9d85",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-007-conceptual-bottom-up-explainer.md": "2c2c622287c9dae872b7d8485f08df59a77f64e489ce10ea0b721922df0a4c17",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-008-concession-argument-chain.md": "49c718f918a17c319aeba48df9a13ca8c478aafbdad4ec4e39fd2ff84658a438",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-009-explainer-hook-cognitive-gap.md": "4cdc9fa023952befa00cab9c395c6800edcfca83d033b8ec42bf45c338b46dfa",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-010-numbered-series-mechanism.md": "0fa8b7ecdc5e12941cd5eca18847614a34794c87f8ff9f9f1b7a2bed03a2b236",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-011-demo-as-cta.md": "756f3253feed0c813be0632224cdbecfcf64c56373b34244bed36494dfa55dd7",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-012-weakness-chain-listing.md": "4d80d8bbe5ba7126ff58d3f7c94ab888220096b93c798bff48e63ab70cbb1e2a",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-013-remotion-ai-motion-generation.md": "0b1e7e601937619ed6e1fea4352b58d7a5cbd810c37f7c3a5b66d08aa70a83c5",
+    "snapshot-data/resources/agent-related/wiki/patterns/P-014-ai-video-workflow-layered.md": "be4201256e3822ba8a915db97e724db8ed573cc287b99f911d03095571f31008",
+    "snapshot-data/descriptions/agent-architecture.json": "4d388302477243ae9564a1f4e0476db095f4b0f352dcb6071b415630400e2b59",
+    "snapshot-data/resources/agent-architecture/wiki/ammunition/A-001-mem0-vs-graphiti-vs-letta.md": "9020e4fc2f48f024a3aa4fed4303a26d4d2d7b300096803ba555b5b95c5f27a9",
+    "snapshot-data/resources/agent-architecture/wiki/ammunition/A-002-filesystem-vs-vector-vs-graph-memory.md": "0e86c75f9c7db90c483f823403d67b1be5b70bb9e1798c48c0121a87e80f6afd",
+    "snapshot-data/resources/agent-architecture/wiki/ammunition/A-003-langchain-vs-langgraph.md": "21becc2a0297b2f519c476421d96ca54f3ff2b08714af6b5d98fe6628d5ebf89",
+    "snapshot-data/resources/agent-architecture/wiki/ammunition/A-004-eino-go-vs-python-frameworks.md": "3ccb2b13716a5d297182f1e7b534cdd930f9b774f5f11a9bcfb3e93c7974c7bf",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C02/F-C02-003-metagpt.md": "c7d0f3acc850917274858d0c41423dad614af12ddd886b4eb946cc825fac2fe7",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C02/F-C02-004-chatdev.md": "08cc15e5b94b538546b24f88650ca2d5a8c661fb314097b74501c406d98e3626",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C02/F-C02-005-generative-agents.md": "c1c5943195860955ebf008136f9ab3df2f089309720bec0c55f39fcbcc01ec38",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C02/F-C02-006-camel.md": "45c75362b94fc3f5f1bdc7f351e9d0211fa04c8bd1d809d75e2939374bebfae4",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C02/F-C02-007-crewAI.md": "1d9b1d638f3029ce3d13dff4eccb8f2f6704f99e23b87a8d85672c3cfc7609f8",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C03/F-C03-001-claude-code.md": "88fb12d5fb0fdbc087751f2d7e147e2f406a7278731a5e80a294fdd56a67e43b",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C03/F-C03-005-gemini-cli.md": "41a49517359556521913ab05162a1d34f4d408a1f2452d220069b7eccb73dc86",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C03/F-C03-006-OpenHands.md": "3419dbd13f8b4fc51172d5d68b43bcb9dc18eb2a3d24c62ede7f1b7afdb6c6f4",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C04/F-C04-001-daytona.md": "d39ca6e99840be9a979e67609e1cb52f07399c5b744764fb7c92114b855baf65",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C06/F-C06-001-mem0.md": "d31e71e986a20f1b0aca0574f807a4af9b99289742cb4cf21165a8073ddc4c71",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C06/F-C06-002-graphiti.md": "05fe5a825cfba302e44fee74b95426f7bc0c276e423067568d9607d8ce1fc5f9",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C06/F-C06-003-letta.md": "37bb1edbb66364f0916dda3c802947d07fe5ef7fd2b2a5b3596e4640afd39852",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C06/F-C06-004-cognee.md": "7b5d98e0c65994f339c62d821ab934193e263440a808ee91a127d4189eabea07",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C08/F-C08-001-browser-use.md": "bda3a3cfa004f0c22e202fc8b10101955c0fde636b951f544c00a5b6402c9e0e",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C09/F-C09-001-langfuse.md": "e40f6521535c04f841069faaa37c3f1a8cf9027efb93287f91ddff604560933b",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C09/F-C09-002-opik.md": "f34e56efa671608c43711c99d2d9ab2583d8644d669502c1322e210b8635fb9b",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C09/F-C09-003-phoenix.md": "53aa9ce0438a8237a8b196df5fc953a61b91a914d03b93ab07d4c5d3f4f9e8ff",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C10/F-C10-001-superpowers.md": "92faca0b768e4e16d37d0ec344ed39f172677a0e7925d429ba862537ca6ae1fd",
+    "snapshot-data/resources/agent-architecture/wiki/frameworks/F-C10/F-C10-002-mcp-servers.md": "c01cc1a22077f324f863a148baad65d8d356250e0d87f8b3bde56beeb1c427a8",
+    "snapshot-data/resources/agent-architecture/wiki/matrices/M-001-c06-memory-matrix.md": "434c3cd0409ea6c9bfcd86e401093f2db8250b6e247e582aefb21a142c59e435",
+    "snapshot-data/resources/agent-architecture/wiki/matrices/M-002-c10-protocol-ecosystem-matrix.md": "656badd1f790c4b9bada4446836d590f12c6b1d08a9876c2f7f6a82c3f11df91",
+    "snapshot-data/resources/agent-architecture/wiki/matrices/M-003-c03-cli-coding-agent-matrix.md": "d6cc3f81f91830e99ba25bdb00ef2f44418d4ef3a38204f764f64b4fdd1780c7",
+    "snapshot-data/resources/agent-architecture/wiki/matrices/M-004-c01-orchestration-matrix.md": "a3719afb70d5a66d5294dc76368ccde25a0aaba83392e011c31ba303e0888054",
+    "snapshot-data/resources/agent-architecture/wiki/matrices/M-005-c02-multiagent-matrix.md": "9dfbbbe7ced40c789830753b185ad5142bd5156dccbb65cfade4bbb1f8ab01a6",
+    "snapshot-data/resources/agent-architecture/wiki/matrices/M-006-c09-evaluation-matrix.md": "e1f3fbe5dad65f18047d3a613066843e0ac7cd9475003bceb162636065021734",
+    "snapshot-data/resources/agent-architecture/wiki/patterns/P-001-workflow-vs-agent.md": "0c8585dc43bac5b5b140d29260b8a0e0877110f965463d8868b47bf933317eaa",
+    "snapshot-data/resources/agent-architecture/wiki/patterns/P-002-context-discipline.md": "0b94558b88910fb582dceef1dfd2ea6cb1ee4f22e34f23f66dd067fea3533c71",
+    "snapshot-data/resources/agent-architecture/wiki/patterns/P-003-tool-design-aci.md": "5b4d73862afb72ff267d72968888d42a8be74bd4dd7544eca2fe8d7bd5bdce03",
+    "snapshot-data/descriptions/agent-skills.json": "e7d8669e84030a3199a55755796beeab17c99d11336aa382961403e97f25bb52",
+    "snapshot-data/resources/agent-skills/wiki/design-cards/D-001-kb-operator-design-card.md": "d624c6f2aac1d16b253de3967b667fe8fd51f60477431a0fa2075de1d3e17ed4",
+    "snapshot-data/resources/agent-skills/wiki/design-cards/D-002-tdd-for-skills-design-card.md": "8638bda1934cec021bdecb020fa2b45036927faf2684b431259c4c295d54ef7c",
+    "snapshot-data/resources/agent-skills/wiki/design-philosophy/PH-001-verifiability-before-completeness.md": "abe2d6b0af7e6f87d9357620b2363ef77c23a0dcaa50ac6bea0e3fcc12a70851",
+    "snapshot-data/resources/agent-skills/wiki/patterns/P-015-schema-first-extraction-retry-loop.md": "d6a4f8abb6673fb32425a21349da94b3b7b21bd9b093bfc19ba6bafad4d2333b",
+    "snapshot-data/resources/agent-skills/wiki/patterns/P-016-jd-resume-tailoring-methodology.md": "d24c8f829a6787cc0f398c9a6f517e1916ae5cfa5737e5d19c3274fc7a83f6ea",
+    "snapshot-data/resources/agent-skills/wiki/requirements/R-002-project-context-hygiene/SKILL.md": "18d9e36902b53468bacee0c123695a56e6e8b6f70ca8dc3e744d63eb83ab89c6",
+    "snapshot-data/descriptions/video-knowledge.json": "d1015b82a3847fad6c4b95bcec19216cb2e539b5e5753d0364650824267d5bd6",
+    "snapshot-data/resources/video-knowledge/wiki/cards/mot/MOT-DY-BURST-001.md": "532a10f257128cec8456930b8949f6ca31e995bb6134835a3e3af2d556fa9aac",
+    "snapshot-data/resources/video-knowledge/wiki/cards/str/STR-DY-INTERACTION-001.md": "84fb7c72befc28afb81065e307a0ba328585234ca44d9768bdf8bcef403cd646",
+    "snapshot-data/resources/video-knowledge/wiki/cards/sty/STY-DY-INTERACTION-001.md": "2a0b64ab9cd2dee017dc89be14c3f8b099edf5610a78e74dd479696487a922c9",
+    "snapshot-data/descriptions/project-inspiration.json": "272759c5d679f035bc965cfbe6f0b3bbd9852245516dc229f61ab3df8a9c99ab",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-001.md": "1ea74335701853854e3a67f853b28297372b3732fbf15110d3e10d51bbd1430c",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-002.md": "08501ffeaa5fb24377603a53c473a655b0511935e370eb0065b12ca69ec7ec57",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-003.md": "468837cdd456f3b43eaca491aabc4013dbd0a562331099415149e230534525be",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-004.md": "4c4bcb850cec42cc5d0b96bec744bde194c91c99bf12be66c03c76a51c4137cc",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-005.md": "d102a1fa8b24df68f4691891f802c3eb3918407b175a0ee51dfabb60b9e3800f",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-006.md": "43936103068875f83d2f66f274193fcef1972ee618d23fb92fb7d48e06261a72",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-007.md": "cc9117edacbb2ec746b002613796fb2a8233720bd048a98ccf703e5d0da5f66e",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-008.md": "fa9ee712aa3912307fbd0bdc407788ba8dca67eaeff680f89a24101f49179abd",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-009.md": "fc0ab82f19fc3d8c08c485041a04a779258d19c6ab6ee41a4e3b82e3421d89f2",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-010.md": "fc5e851e1753394755d3f169f872da3b6247f4a52fbf9157972e8e52fb0890be",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-011.md": "143dc10a7769689ed74a7a8cf843d9ab71f79194998499b89b52a113e86bcc8f",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-012.md": "6c7789a64836fb11017be40d80b378ce90693075d31cbce758c31d35773750b5",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-013.md": "30b88a16b35f0d06452879ecc5db54271b7a82b95f1a09915a748f7e707b6eda",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-014.md": "f907e55b914486fca3251aa15db60289ef25c801bf352b5a5f583b178883b878",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-015.md": "1c74bb11844a8493e67b700f69de6c96987f50d770cd56e913d730dd569f4915",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-016.md": "d4600d67efdc1738f3605a705407f252cf7a65d7f7399c85fbc7f97b4968dfb0",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-017.md": "7c1e895c7063922119c622950eab29285b6b3d6ce14a2563d2f6cc802ec4541c",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-018.md": "2eb3183d758065c0ed968ef2d7671c945f7efb52f1b3bb8f0eb0a08dd2f7a534",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-019.md": "ddebaa7d0d9d6c0202f03629ae276e64d321c457cc0e6ce3d13845681a33be31",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-020.md": "5baff3218915000c576843797f05f786ff8e24b36702d73f716e5eb9b4411110",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-021.md": "c800ce8b226e059f40fc45ccc5a804cd3e6572c21e8a5087fbcca8439959b5fb",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-022.md": "b6cb8efeb8f10c7254a194b003753a373eac8594c4f6798c42fca4fd6b3bb55d",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-023.md": "4863318baf27ae5da3f672520b186fbf03ef335f8b1bc51c52bf7a473a3e0214",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-024.md": "cba0b185693a34f11bab1c7ccaee63a274c31b287d1a104b114e365503d198c7",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-025.md": "56d55a239be4b99dd62e616172d94250f193ead4aac860ed142f13bf6e6a6e06",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-026.md": "d1746f2c3b3f036cbe6d748750493cd313ebfd398bbde25d5f3fa9f3d6ccce1e",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-027.md": "16782276ceb2b5256a3eec5203c61039c5cd983c79c128bddb144a9149516d31",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-028.md": "343bc37950dfdffcb758a0970481e9ac11638adbd485b27c01b99b69a7dfb186",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-029.md": "edaf519f1ac9722c167a4ba7911702a0ab86ba0f9c8cc41343d30af85ff83a45",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-030.md": "dbe9097bf6ba991652191307b2524ef279e8b3c6e666aca0c19f33fa5aa5777a",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-031.md": "fa624be8f6c29927d90d671a69c5f8c93af7e2cc06a3a35d5d1e238c1802b6a7",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-032.md": "78262e1017385a53f5e5c0765b65271c2415a5950dbcf6fa6689fc2144767e04",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-033.md": "65277047c7fd4e33e068e9c796d450cc79c1b34fba61be62509243d4c427a6f5",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-034.md": "d9d81a4fb6de5f653b64b94b7f92ef43f1d6abcd79fbfc8469b047d40ada1ec4",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-035.md": "d214107ed3131c17b07fa70c477a19e30eb025f5f84ef5bf63edc41acd0bf139",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-036.md": "ef318c56be7b841c10ec07b7beafba302af98dc7c0d0f208e9e606c3f81a5986",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-037.md": "e05160dd9c9af37f1ca949938e62ef415d9d7a2e883c7a63d8c1606633baa6e5",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-038.md": "e011b8d28526512a6c0b6b705272e629aac563f61a1041f9c9ca48fa26a8af6f",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-039.md": "6a425382e1d2fb50a1712ac83113a9f244e772dd62c4ab5f6a04a748a6d4677d",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-040.md": "c7fb13803197ee02e8e5f8f780dfa9036c35818f255f779f9a4adc6f02e3320c",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-041.md": "262a2d69673be9c542aeb89de54fe9eeed774febf54f0b87b2b14016bb78d8f7",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-042.md": "c6dab837b618b92d6154f54ee433a58bcaa60eeb930c3adb24262b5f6e1429f4",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-043.md": "3e616f43997241e818c35733ca72e8eb30157a705fbdce8b4cda78fb98393aff",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-044.md": "f7c5bc275875d3c1cd33b4654b54330ef9b4f15a1de25ffdaf5b5e9eb0c38107",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-045.md": "7c0dc14fac6bb235cc7361082a8e28ec5a22fbee3e2fd37d0c0ccda7ceaae4d3",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-046.md": "611176305c042777e7ff9d33b1acd5a66a666e68b614c0a7bb98799293172ef9",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-047.md": "f82146797ad70a283f8eb021b4d1a6229ed9d0cfc17a5e66b6f3c1ae6b019d10",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-048.md": "74ead9e0abe5ed163b51f8f5b86dd7a16db4167c39a087b3174583d4bbeca1aa",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-049.md": "3034e81ef38f9a0a093023347013b5c6c833d6405a684108ec7fae9824dad529",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-050.md": "6a6f58af165fb5368a0433acc7d25d3cd8be47dbdd3c0186994b5302df561635",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-051.md": "52aa1efee01d7025daefd8077f42381f6d7543570636961d26532fa845c27342",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-052.md": "98bbf673c8950b260d61a5daf3564a7efe56a2d3c1894c518f1599a8de160bcc",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-053.md": "d002483c9f027d8101e4fef48e2a1e733023082a07d96b27e9eac26555185d9e",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-054.md": "bad78a36a67abe3868a79145acb903b08fd985efe8c737cb46f18262115405b3",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-055.md": "4192cb082d0f6dfc5a500bc5ee62ee4d4b7d82811168190dc1b82db726c189d1",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-056.md": "2df1bfd49e634eb0290f6aa95f0dd97670a1e099bbbade7b036861ec45adb7cd",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-057.md": "97db3868641cecd7accce51aa4c54fd287f79e06d62de6d82764159d463b0781",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-058.md": "8ca5278cc14fc874131c321962b40016c303da452ecb91a5b0f4a805712a7e4c",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-059.md": "b8304ade506ef02631a9c4f91459445b5597a66df9f5ddc25a08f31799638308",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-060.md": "52c6bb562d9431b5ce1ded0229afd4f4983b5615e6c3b6aba5620539ada20ae8",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-061.md": "f88fa1b9bd6657d485a8586cd0ffd9028ceca2710fe7c07f81bdb8c25eff2e08",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-062.md": "a633dbcbf22e73745afa823444ac66b0973674c36ad2d28826b44d2473a4522f",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-063.md": "4e47f6321145d1af9b64846812bf38e779570d0706f17bb7ac0f5c89755cc0de",
+    "snapshot-data/resources/project-inspiration/30-cards/exp/EXP-064.md": "b9675710bcaa245a9da215136d4959cb5c72a5c303b1982eb266a7e41bbed80f",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-001.md": "65886bc12cf359cbbbf7fc4be96a731e1bf2ed1c76c4b28ce6fed7ed4568053a",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-002.md": "8312e365152a16e3fa54cfc308675df4b39e677c367ba611c1dd61ddb3d90f79",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-003.md": "3264a80b9fae9294b7d1234d3c838c0cc1514f4fa61e21985e6dfa67e1970aa1",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-004.md": "d880f18e010c29d1a7f3391d4ef0248030b0f5c5504eb586eb3d8833010f9f8c",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-005.md": "c4cd03776b39732d87807cb8382a8bc42a883330fcfe60501f4647250053d1a9",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-006.md": "e6ff750615bbc24ea4475383d9a66643879370357f7639a7923ce20a94b77fdd",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-007.md": "0e15c3c33d762e1a36f4c1d433c7e449c4974de47f95e0c7b87cfd116802fe9d",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-008.md": "02c760671d2f575d1025d99401655630082380672bc2dc5d2799e40719d4f5e0",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-009.md": "25959cdb0ded5d2dbb9099c2d72ab850143e0339f4dacf5ba4035a70325cd705",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-010.md": "bfd541f8bfbc842354b6eebe638818b7b1bb30d1278732e509af07702a4beef8",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-011.md": "951d49714343c9073821280d6147349b96785492fd939cd0b12a8418767accb9",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-012.md": "62bde05cdbdf553c70700f3213968f60a61e334ca11ed92da81ceaf11a47462b",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-013.md": "f078aebf97f6cbc8e6363d5e150f334694bd31ecdc09a045f544676d6149f0dc",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-014.md": "b7c3ec9b49c685df283dd1b279b58b61a0764a883c2c8c5132c7255e3f005f97",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-015.md": "01301d9c9106baa09221d59054fc51b1c46e411946e5371ec694fb84366d88af",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-016.md": "d1a1632b0a23e1120a5ce648de2f12484e490d2f3b961284712bc252edae5da1",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-017.md": "24bf90ad106b97de39c12a0de7acdcab923192c7cecf7c3b6100696174c5f215",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-018.md": "b0c6c619c328b0fce4e609b14f0eaf8ddfde27dcb9fbf2614fa1b18ca26d3369",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-019.md": "4a30c8aea251cabe69e9e8f491ef1d193867402e9d233a1b08771194a4e08cd1",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-020.md": "83139211c53765a6ed1c924c1e930af740ef94f245178e3b8ead6d4a876d47bc",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-021.md": "79274a4ad2c9663fbb05f5f1b33873147c75af64b9144acbdd01872ee045a2a0",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-022.md": "172e408282f8a873c77e9203769552ea1382f583c721b392fe323aca9cbeab42",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-023.md": "7688b2394f8a5235b19ebe3c9691faee153ed88d83ff3a8dbb8614b1361fa1c1",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-024.md": "2745cbc31cfc7ce640ded805a2b51a89279bff7aaa40f7e126bddc57fcee3c1a",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-025.md": "bc537c1d90f683c1f65cd4f7d57e89ff1a0afd90ecba98f9500ec2b35cf48e85",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-026.md": "f82a3818fc46ce490180835509a7cbcfe731712bd96d72442d7cbc2ca2d1bd7f",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-027.md": "b1c551a5b5a3b24760aa758fdf863d66887bad3b3d4b99d9172b5073fbed9316",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-028.md": "f1b044d1c76b98ad8e01a621ad6a2f0726403ab2add4b8bc4a1ea21ce845e4f3",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-029.md": "ae1965bddec8ad3779826605c29566144980ccff2ec7a755bec426c3e5a669a4",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-030.md": "5ab3ae258e88fd652ce0526d280212001976a1d5912573e59074c906b9255c84",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-031.md": "a83684f2ca95d3e5c941bcf08013859f0c28d61bb78fd2825c2226f4b8769e64",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-032.md": "1d2e448d2b46e15fc9d394706fa906b31ed68a44535406828e2273ebf90bb903",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-033.md": "6720004b115fa6d375bb44fffed228718389468350a76a7168eefdcf78ac3563",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-034.md": "0089d27d008e89bd3bf9ec530aa29444fe81bac77bbede1957e1ae7efaf005bc",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-035.md": "b8b9cc80e6c94077e03c11e9f2706c1425f2f90ccf48d60ab84638b526a3aef1",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-036.md": "6d3d03899046d6101bb6886d93e00a747141264bd66f41ac545a4e19f3cefeba",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-037.md": "fc57c0fa64f6ae21bb3a8a69a859ae868b36d6b8335bef71953a271a0b459023",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-038.md": "de365a5566c11ec35bf8325bad942c80c44fc56000277ff3bbe16365c07451d9",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-039.md": "83e87d9760ccad5f9f1df575444b3d4bc896932ee40a9c7badb14e61268f1889",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-040.md": "764ab991506460bee52686ff3f66153cf1286e982c3a9eef8b2dda694bfe72f2",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-041.md": "30e0c5d31d3540f0ee69aaea08fda413358cecafa66ef734a64402eb38eb8c82",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-042.md": "4e994d62ce1f6f4483acbe1034f8d623bdd778e0c05a3f6c8b532f2606b2e559",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-043.md": "43aaa828e0b77cc8ac20d9e929e0e76b3e9a838079505d8700bee102691f8ccf",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-044.md": "2d8f461a615d4d9b861701b697512d05c663ae4cc881c4901239dc3d494bf965",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-045.md": "0f3d65cd585b8351edad23f1de2f002ffe4140e33187dc7b09360450190e708a",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-046.md": "1c5d6171abefecd1679a6a17d9d61da8a1d64b9a4d1e961b4479654adb8c3422",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-047.md": "3b480d756d8852a7c8aee4ed097c75fb4077d82a459aa88565a51f7386439752",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-048.md": "c12565fc41dcae6bb0f1d261c0a55ece7168d4b473e5d489dead85d92c0d0ef9",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-049.md": "000cc974186384d5903a6efb79004d574a03aa35956ee3fcb3507480f090d0ea",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-050.md": "74411c242600e2c02f1464f2563b2f00f718c86693547c6786c0c8deca95787a",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-051.md": "0f2abe2e6f06f404f210c19d46bca9540c6d054290b88a9a0a5b9d29434f257d",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-052.md": "bb2bd6b3ee33c5a3b12b5054d83fd9f95f7b55fc3b77df33eb72b16e505005d7",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-053.md": "de8cce6d3ba1b0f5f596925982e40d1d91f75254fdac5ec111b374343075d7d2",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-054.md": "aab672fd57b8a66b98da20e4f4eab139abdede3731a035b8fa84afaeccb9a308",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-055.md": "a54917df7c1319ebe53a2a2e95a511aed1f3123347bc529956057cb7a19b7fd3",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-056.md": "efda1984e04145620b4cb3ecd18e54c2312e9d857e7faf132911ce6edaab5f6f",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-057.md": "e59f99da0dbbc7f4482fb416e182030594414b72fc6923143f516e249b6ad589",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-058.md": "1fbc6deccc074ac05990d6e28f2568c93db0b047c3b7f356f2af7592b124d8b2",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-059.md": "e7164493ebb41384f2a1f20b0e05ddafcf7c07f2cf2a0c7cb702a20819f1eb68",
+    "snapshot-data/resources/project-inspiration/30-cards/prj/PRJ-060.md": "9d0029e9e3e7a24f82d894585cc59e52b31636c7ef0eb24d40bd59fc5c8373c1",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-001.md": "7931f7b5abd30dccbe77b1684854ebcbeb5cf21cbb0e123f94b7c8c92b90d298",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-002.md": "000ea43ff5c349a36dc7e3aa3244ec7e371bbc00c2cc4f48db24bdf7d5adbe2d",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-003.md": "d1872ae179bf822990a63b4e7edc575c69f955cd6c25d0178680ce97768f970b",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-004.md": "3c059d625c225aaeb5d6379c9e56a68cd8ff275c391f70ef7fed0b12a5bcc506",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-005.md": "0c50c361d0569f8a310f6b11469d05c888b93dce966f0250c874112c4824924c",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-006.md": "217bf31ffb77e6572e3c56343bce6089ec45706878059f9e74d207136b0da95b",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-007.md": "870a23abcde79c5ad9a58e9d0dd14f5f46f2391c51853782743ce796afa934bb",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-008.md": "c3f8ec040516e4387e08c3bf2d89d873e292ccdeca4b18b8fa1e65eefaf935fd",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-009.md": "3fff772f5f57e4af6949c6a56eae0abdadd5a32f9c40de1b0f42ba96664f6e6b",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-010.md": "9b39492c8576cb60dfd9af0294151a3c80a3012423e93735c27e041669767d21",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-011.md": "a5301459f817069e853caac5d459647153be27f807c8d813d26f07cbd3562e1a",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-012.md": "926da075ae98e390a7973556a366b76cbe8d54ace472f0d0362c63cef3f3ce2e",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-013.md": "a7b66e9e7241f137da65863bff06e264b14abbfeea85d95d892d467318d3152f",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-014.md": "f91f15885d68234bab225a58ba8ac1b3788050a0754bf19c42dd9f80024b84a6",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-015.md": "77bdf4e83543a670014e93c996d6c7b023eaa1c92b566f0074194ddb946086bf",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-016.md": "6a79d1e9463d6fc3af82eb86951898f4649d4838c1f0a091f6dd8e37a7c463ed",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-017.md": "653d3deb46539bc635d1209ba69e349cbcb6f2c5df0cbedaffbfaa4064587a27",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-018.md": "01e52f49ab5980d551df5f084764003de9d6301e08215c19b1d344c4e44ca41c",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-019.md": "c2a68ec57ad4f783905328204f7eac900b415ba25ea82ad7f69e618755d8c05c",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-020.md": "420ca302126a74d59d8e2692dd51080408c0217ca83e4c2e4926b4fce4af78be",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-021.md": "7c596b7ca9ed58af28caa69d11b5b864664e3c9bb730b2755401346421642d6b",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-022.md": "d9d92be8fca571d8248732acd73bb5eeaa3940a156654b65d2c13812afb9eea7",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-023.md": "bea45ced9bcd3498f9f331614ac02a6b20111595ef60403f61af0229367c7b0e",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-024.md": "ad8f1d65d85b04e4674664daedccdb9caf83611eaf881a51eb8df9f6f6146307",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-025.md": "ac06b99f8cdd2fd2341c7d3272fd38ea8ea0a64bfe3f9685f8c6523429a711da",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-026.md": "70f70ca9f05a383e8b25748315ef8b11d04f9c3ceee7670714660c5f3e5e4fe6",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-027.md": "cdc28eb58c770ccf9c470fbd845c3dd66b393171595d73a860f883c8a7698aed",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-028.md": "012372b0f48d4e52a543fb6db59c6bafc2ddadf103ae6e002fb6f5993b6e7400",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-029.md": "6e0be88f375dd6a2f2b12f89448552cfd1548941d3aef8730b04b1a4a311c665",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-030.md": "746de0ab4aec0dbfed3d1444b28cdf7bcec8f57c9d45030a0866297b834b6691",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-031.md": "4fa57daa0be02577dfbc80db9cce31b794e6ce205ac65682fe56d15d5a983451",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-032.md": "6381ac9f2341401c9790d8c79b56bdad965aa56e4caa85c701a49f90125898e0",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-033.md": "b528017206e82464854027f5d8a3cc2c14d1d400f6d2afa28ea89e594142ef1f",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-034.md": "516ad9a01506802edcddf2bc33f6640fea0d75dec9d4e2ac54914ed64353f363",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-035.md": "4a411bc6da4980b471ab7bf9f2da04ad541448b802ece643d90d8f8826d4a1e2",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-036.md": "9cfe0bcccad1abfae7efbf04c210fb953647e960f2480687645da504d614e037",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-037.md": "73a1928af1f545dd949ae792b5d1940d8593eb14fc3e8f20e9ccf54ef37cb16b",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-038.md": "0077622370b6642befc45fd4e76a1307a42dbe841b2f4f98107989cf978ca49c",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-039.md": "87190ced6922cda49a7a95fa52f95058eba697b8bcd13bf9d3f7dccfe99b24d2",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-040.md": "dc142ed4b2c308c41ae226f575844580606baeb6c3c741ef66ad84405f0a4d2c",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-041.md": "222151232a80985a3cfca957b5544f89b6ff0ba3fac9bca2c6411bef76717fb8",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-042.md": "5860005d9d89f7c0e2a8d8e46f40e42915d690440474acc7c323e3843ff343a0",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-043.md": "3b79a947cb3939443ec209df36942aeb912fda5a835c4b6d6cbbf3ab870765ce",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-044.md": "6db8d3f2143b72f86bba780066aaf030a95724b3873c4036a717c25c98d269ab",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-045.md": "2f256f2c56f60998cdbb24ce56a49a307dca92a996a1cf0a3df25cf3a480fa04",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-046.md": "d022017a792f349181fcfaa04989f5ad81d43892ab1940f5da16378f71d97a91",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-047.md": "8ded60585e8244f61f1a7b88b7cdc72ef2a59ec59a569068fe1571650443d366",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-048.md": "eecba54818bc0caa87929b50d42814d3816cf2da985543278a98be14a9221c7c",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-049.md": "a50803edc0308d714da56e71cab71063674cdee3b5a2af4a49f9d6a38f7b055f",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-050.md": "2a5b9807c011764ed39dd789065bdc757ca32e6fc024a28a0a43c7e873b2d457",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-051.md": "bd0fb2344c641f1c11eeed348c0f59d1775485d925ed6efb1f940ac829901c66",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-052.md": "cf9af6c9601861217f13d0b9569d3931805dbb4e11cba273651053e209ffe688",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-053.md": "ba46a88219295f77fca23a4d3785f1405ebbc092f397f951807951d17a796251",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-054.md": "3f84abb4407fa3c0660c797451f18ec4f4e5825bb5b35a448de006046fbab2ca",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-055.md": "0fc619c67d9fa8bdec1f4ce26f57eb7254b29c2213c3d46a6beb8f6a6e02a133",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-056.md": "0ff9d6e68cc8ffa109c57d517c08a1607b50e6d47eda3cb6d236dae134d7acdc",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-057.md": "4a38a082bbc8da376690709203b5fa1b66c8044d024efcf00c0849cc3fcb86af",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-058.md": "d31086c25f12980657fc512671eac96fa24d9af5b266117a2f9ea65c73913de8",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-059.md": "024ebdf63a286cf2fec41a353fca4ce2a0dbba1f500a674dbbe8762d69cda814",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-060.md": "5da373b03e5e248cd3d92e9fa110f215b9608c75b4f254b3b0bf0715e86567b9",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-061.md": "427862aab5f1876ff8cf18ae16013f015b2fc9b3abf4160885d482cc024f2880",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-062.md": "3cc1fd622cbaea65678b02c51786d9da7ab3d91fa2c5a99ddac1fa5dfb39a6de",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-063.md": "c97163ed725e0877e133553e569967bcef21d92761042db6d9357cfc39054495",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-064.md": "97173e137b67ac80ade94bdb76f5191e4d26df7a0ed5ba1fdf680fea21206ee1",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-065.md": "e1a1657924a44c4e9d53d8231a27d5165cac81ee4310b59adaf23f8f2bc54674",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-066.md": "3896b5f2c84d411637f4ead78c1ff731afd8b5010937a2f17efd9155915787c8",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-067.md": "e62ef8d5142c016ed3acd7e2f92781397938aff4ccdc33211c37bcad72d4d7e1",
+    "snapshot-data/resources/project-inspiration/30-cards/ptn/PTN-068.md": "840555f9cbeb4305721c2271ff53fe2a9113ac0cdd355cf0bc86b4c3d2912bfa",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-001.md": "47d9c98fde917c10c2772a3476df02a552a70b038f19c373ac8bfbc3dfddbe23",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-002.md": "e9052d048c1452864cfa64ecae4afb2ee7010139e8aa4531aeab659be4f59184",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-003.md": "0bd8f45df67f4ddf39acf860ed38bb76ee585d8c7b5971d19c33462beaa25658",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-004.md": "6378f8bb486db73a6e2e1eb0bfd94774552f99533dc7614a64d4fe6215053952",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-005.md": "c89933aec455dda2c181e60afd3b5d6d9940a5b40df2775fb8b8737cf56dd78f",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-006.md": "3e0fe8b84184aa1faf1f5f3a0fea2cba291c09af83e0a8ca3acfcd6b3e792c59",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-007.md": "4990597e3d01c590b0174b12982a6abbae526d976682da475b2e4790c758bcb0",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-008.md": "dc95292bfaff8cbc49c40a1177acff0d828d55eb1c04c9a63287d9a7a5ce1772",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-009.md": "b47277b2a2cdb71eb080cf28eb706b2fc7595440e12e12fef394e6261e5d1b03",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-010.md": "1cbb387e06bd9e13567b0db471a30a6a853f9d3141a95bb3ab23ce0685c047fc",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-011.md": "57d401c03f8b10fc4aa029db861b8923c33fd3f679c43c947994ea18ff71c9d3",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-012.md": "46e7bce1db8c2ae08ebc79349bb6401f9bc79a5cced228bdd25fe408ad32b46a",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-013.md": "ffe4b1b4c287e23326d443b1925c7d94dcd973c156f7bc83fb91153c307ef4d2",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-014.md": "8a451631beb3af8211713fcad6c94be0abe44f2d3aa7906052547664d1804be3",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-015.md": "084409aeebe752a26e3c0a4947f4f9275ff58be2519ebc32c02a7db6dcdff0fd",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-016.md": "66f427161bb5b8b6ca792e604204c7bc6d7ae6a3cf0bc75f8f6a0a6d7c99a1f8",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-017.md": "018fb3c8a2b3cbc43937a56a4a4474cd080dd6d65bb93d86210fd8dbc973dcac",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-018.md": "244f8f677dcfe653515a8ddc745b8a83f9a82eb1cd459acfa816c04465c1cf22",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-019.md": "90c11ed1aa6e29ab696908eeca1fcc49a0dcfc4cb075a7d129bebdd8341a22f5",
+    "snapshot-data/resources/project-inspiration/30-cards/risk/RISK-020.md": "5b0e624a29befc1f44d4c4f04a7674e0e3b0fb409dba445a3d440c4d9de8db13",
+    "snapshot-data/descriptions/frontend-design.json": "43f644643fd2a33f27e59b658fe8354c0e551b13ce0e0ce1569a9fd199525c73",
+    "snapshot-data/resources/frontend-design/content/knowledge/agent-handoff-terminal-mock/index.md": "47dceed245299c45b3b19ce78b282a9484e9c2e83570da279e738a92311b2971",
+    "snapshot-data/resources/frontend-design/content/knowledge/animate-ui-files/index.md": "e66c68c871e3ff6cda0e45b268810a9be5a0f9fad2c6a17613947766de0cbf2d",
+    "snapshot-data/resources/frontend-design/content/knowledge/before-after-visual-proof/index.md": "7fde85afcf511c476ca02af159b58e7ca6327ab0a515a593d8cdf7525ebbd3fd",
+    "snapshot-data/resources/frontend-design/content/knowledge/bento-grid-feature-layout/index.md": "ec8ece802259753fd9c29fc6a29a9fdecfbce9b010e383bce75501088f4a8bf4",
+    "snapshot-data/resources/frontend-design/content/knowledge/blog-article-type-router/index.md": "6ac814fa2670024b53d9a81908709cceb5100fbbc6dcc8e1fed81c4314de4d80",
+    "snapshot-data/resources/frontend-design/content/knowledge/broadcast-ui-portfolio/index.md": "2507e6d09532d2552bad2ad02a746415b3aa0e32712ecde0eac9ac1ac068f424",
+    "snapshot-data/resources/frontend-design/content/knowledge/card-spotlight-hover/index.md": "19251a31eb36e908b557be2d5bfce54538df24e4ed5695f20fb65785fc495bf7",
+    "snapshot-data/resources/frontend-design/content/knowledge/code-typing-demo/index.md": "68f07c46fe0589478a1d0bca7c017378b1a905e53661f8cca755538284627109",
+    "snapshot-data/resources/frontend-design/content/knowledge/editorial-automotive-luxury/index.md": "e41afa038f12c9fedde5fe3317c10678a2bb1961d85a2f54439571ad95b61285",
+    "snapshot-data/resources/frontend-design/content/knowledge/first-person-experiential-home/index.md": "0daa7aac61f91674bea0e5a03ff307d5e63c31c25df3443c3f11a86accbd10ac",
+    "snapshot-data/resources/frontend-design/content/knowledge/globe-3d-data-visual/index.md": "a9ae72b117386f2cf4043fb1ee68a1811815bb7d4c0afa5e61cac59290dad068",
+    "snapshot-data/resources/frontend-design/content/knowledge/immersive-music-site/index.md": "8ed0ae0e14ae96cb72e537754186bf54a87c3dcff35cb86ea51e747e08073526",
+    "snapshot-data/resources/frontend-design/content/knowledge/interactive-blueprint-hero/index.md": "5ebb80054cfbb31075f51d81b86b28e9865e525d60f6ac8d900e7954e558f778",
+    "snapshot-data/resources/frontend-design/content/knowledge/interactive-brand-game/index.md": "ecde8c94b2f961f62f600878d113b646a16e9994b32f0207ba6ba2aa0e1913ed",
+    "snapshot-data/resources/frontend-design/content/knowledge/interactive-brand-guidelines/index.md": "a61d84ca6368848e5e48a1b8cd87a940f77499c7b2e1f9876e1fb5b5983e8584",
+    "snapshot-data/resources/frontend-design/content/knowledge/marquee-infinite-flow/index.md": "7ff80db984cf9b5f3bc92869dcebd2107218a614e529a238c775019ef5459fa6",
+    "snapshot-data/resources/frontend-design/content/knowledge/media-first-neutral-shell/index.md": "36b443b7ac7cf569fc52cca8b702e44f782b757add9753b34222d78206fe0de8",
+    "snapshot-data/resources/frontend-design/content/knowledge/narrative-step-product-story/index.md": "2fc546ef7d486a0faa0717677b512733ba5048a5684a4dceb820978847dcb4c8",
+    "snapshot-data/resources/frontend-design/content/knowledge/node-graph-brand-language/index.md": "9066ce66eb1e2cf30a722a957425138645153e486c0bd1378e48b2f832d57169",
+    "snapshot-data/resources/frontend-design/content/knowledge/one-rule-visual-system/index.md": "cc90599d9a98bf7ced49297297ccada87139b9fe404da71cd360b2960b355cd3",
+    "snapshot-data/resources/frontend-design/content/knowledge/persona-driven-demo-presets/index.md": "04a61d11ad55b2c92f572322605f6446543e8faad66ae1f1ec0f639b0e2b122b",
+    "snapshot-data/resources/frontend-design/content/knowledge/pricing-compare-matrix/index.md": "9baf6d6d1e1c14efbe4f7ae777ee7cb1032824380539b841b631db9e2dd30710",
+    "snapshot-data/resources/frontend-design/content/knowledge/progressive-node-assembly/index.md": "62476c6ce3c03e03f4e19817f531d876ad0ba6095e2eaa01995720b3b2522fbe",
+    "snapshot-data/resources/frontend-design/content/knowledge/reusable-product-subpage-template/index.md": "6c24a945eddeb08958687766eb6e487bb051af0c72d425b9108d3dac7f9ccf4c",
+    "snapshot-data/resources/frontend-design/content/knowledge/semantic-danger-accent/index.md": "b310b8873619cb5bc3d89344782dced0c27852742b003c704bb2b67ca68a4a1e",
+    "snapshot-data/resources/frontend-design/content/knowledge/shader-hero-abstract/index.md": "680f18bf853851945f579fef0fefbb841c3a1d2e7eaf442546731c34f5f7cc4d",
+    "snapshot-data/resources/frontend-design/content/knowledge/spotlight-hero-background/index.md": "e4b9e23959b866936cdbe854c85d82f1d8dce4bbf603dcdcfc7457d3325c10b8",
+    "snapshot-data/resources/frontend-design/content/knowledge/transcript-diff-visualization/index.md": "3091f5d8b4b9403250756d0c9535d6574cef75ec42681a196d0605c3efae2c31",
+    "snapshot-data/resources/frontend-design/content/knowledge/webgl-scroll-cinema/index.md": "98183a32ff989e2bccb22a98b9466df339aa087365df1d01ee2f5815b81b6be2",
+    "snapshot-data/projection.json": "f7b9f13741fb7a57ebb2a672b7adee06a0b7d7b80e2c65d781513b5a2b973b47"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "知识库系统 · 系统边界",
+    "locale": "zh-CN",
+    "quality_profile": "showcase",
+    "output": "content/assets/diagrams/c4-context.html"
+  },
+  "components": [
+    {
+      "id": "agent",
+      "type": "external",
+      "label": "任务 Agent",
+      "sublabel": "外部宿主 / 执行用户任务",
+      "pos": [
+        40,
+        120
+      ],
+      "size": [
+        200,
+        74
+      ]
+    },
+    {
+      "id": "framework",
+      "type": "backend",
+      "label": "知识库系统",
+      "sublabel": "本机 CLI + 可选只读 Web",
+      "pos": [
+        420,
+        120
+      ],
+      "size": [
+        220,
+        74
+      ]
+    },
+    {
+      "id": "vaults",
+      "type": "database",
+      "label": "独立 Vault",
+      "sublabel": "原生规则、知识与证据文件",
+      "pos": [
+        800,
+        120
+      ],
+      "size": [
+        220,
+        74
+      ]
+    },
+    {
+      "id": "user",
+      "type": "external",
+      "label": "使用者",
+      "sublabel": "提出任务 / 查阅知识",
+      "pos": [
+        40,
+        390
+      ],
+      "size": [
+        200,
+        74
+      ]
+    },
+    {
+      "id": "obsidian",
+      "type": "external",
+      "label": "Obsidian",
+      "sublabel": "原生编辑与领域治理",
+      "pos": [
+        800,
+        390
+      ],
+      "size": [
+        220,
+        74
+      ]
+    },
+    {
+      "id": "sample",
+      "type": "frontend",
+      "label": "公开 Sample Demo",
+      "sublabel": "静态样例 / 不连接私人 Vault",
+      "pos": [
+        420,
+        650
+      ],
+      "size": [
+        220,
+        74
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "agent-entry",
+      "from": "agent",
+      "to": "framework",
+      "label": "ENTRY / CLI",
+      "variant": "emphasis"
+    },
+    {
+      "id": "framework-vault",
+      "from": "framework",
+      "to": "vaults",
+      "label": "定位与获准读取",
+      "variant": "emphasis"
+    },
+    {
+      "id": "user-agent",
+      "from": "user",
+      "to": "agent",
+      "label": "提出任务",
+      "variant": "default"
+    },
+    {
+      "id": "user-web",
+      "from": "user",
+      "to": "framework",
+      "label": "可选本机 HTTP",
+      "variant": "default"
+    },
+    {
+      "id": "user-obsidian",
+      "from": "user",
+      "to": "obsidian",
+      "label": "编辑管理",
+      "variant": "default"
+    },
+    {
+      "id": "obsidian-vault",
+      "from": "obsidian",
+      "to": "vaults",
+      "label": "原生文件",
+      "variant": "default"
+    },
+    {
+      "id": "user-sample",
+      "from": "user",
+      "to": "sample",
+      "label": "浏览公开样例",
+      "variant": "dashed"
+    },
+    {
+      "id": "agent-native-workflow",
+      "from": "agent",
+      "to": "vaults",
+      "label": "按目标原生 Workflow 消费",
+      "variant": "dashed",
+      "fromSide": "top",
+      "toSide": "top",
+      "via": [
+        [
+          140,
+          35
+        ],
+        [
+          910,
+          35
+        ]
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "原生优先",
+      "items": [
+        "Agent 从 ENTRY 解析成员和位置，再按目标 Vault 的完整规则执行。",
+        "各库保留领域结构；原生写入与发布治理不归 Web。"
+      ]
+    },
+    {
+      "dot": "slate",
+      "title": "展示边界",
+      "items": [
+        "本机 Web 逐文件授权，只读搜索与正文。",
+        "公开 Demo 使用独立样例数据，不读取私人库。"
+      ]
+    }
+  ]
+}

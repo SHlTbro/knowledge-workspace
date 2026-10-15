@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>本机 Vault · Knowledge Workspace</title>
+  <link rel="stylesheet" href="./app.css">
+  <script src="./safe_external_url.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="返回 Vault 首页"><span class="brand-mark">K</span><span>Knowledge Workspace</span></a>
+    <div class="local-state"><span class="live-dot"></span>本机真实 Vault <span class="divider">·</span> 只读</div>
+  </header>
+  <main id="app" tabindex="-1" aria-live="polite" aria-busy="true"><p class="notice">正在连接本机 Vault…</p></main>
+  <footer>内容从绑定的原生 Vault 实时读取。权限按每个文件重新检查；本页面不会写入 Vault。</footer>
+  <noscript><p class="notice">需要启用 JavaScript 才能浏览本机只读目录。</p></noscript>
+</body>
+</html>

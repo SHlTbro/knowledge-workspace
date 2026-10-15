@@ -1,0 +1,61 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "agent-architecture",
+  "purpose": [
+    "Agent 框架、记忆方案与架构选型比较"
+  ],
+  "entry_points": [
+    {
+      "label": "本次公开知识入口",
+      "path": "wiki/ammunition/A-001-mem0-vs-graphiti-vs-letta.md"
+    }
+  ],
+  "structure": [
+    "wiki"
+  ],
+  "agent_prompt": "这是作者真实知识的获准公开快照，不连接私人 Vault。只引用本快照实际包含的内容；未打包的来源、附件与完整领域规则不可假称已读取。使用原生 Agent 工作流时，请在自己的本机实例解析正式成员入口与授权。",
+  "preview_resources": [
+    "wiki/ammunition/A-001-mem0-vs-graphiti-vs-letta.md",
+    "wiki/ammunition/A-002-filesystem-vs-vector-vs-graph-memory.md",
+    "wiki/ammunition/A-003-langchain-vs-langgraph.md",
+    "wiki/ammunition/A-004-eino-go-vs-python-frameworks.md",
+    "wiki/frameworks/F-C02/F-C02-003-metagpt.md",
+    "wiki/frameworks/F-C02/F-C02-004-chatdev.md",
+    "wiki/frameworks/F-C02/F-C02-005-generative-agents.md",
+    "wiki/frameworks/F-C02/F-C02-006-camel.md",
+    "wiki/frameworks/F-C02/F-C02-007-crewAI.md",
+    "wiki/frameworks/F-C03/F-C03-001-claude-code.md",
+    "wiki/frameworks/F-C03/F-C03-005-gemini-cli.md",
+    "wiki/frameworks/F-C03/F-C03-006-OpenHands.md",
+    "wiki/frameworks/F-C04/F-C04-001-daytona.md",
+    "wiki/frameworks/F-C06/F-C06-001-mem0.md",
+    "wiki/frameworks/F-C06/F-C06-002-graphiti.md",
+    "wiki/frameworks/F-C06/F-C06-003-letta.md",
+    "wiki/frameworks/F-C06/F-C06-004-cognee.md",
+    "wiki/frameworks/F-C08/F-C08-001-browser-use.md",
+    "wiki/frameworks/F-C09/F-C09-001-langfuse.md",
+    "wiki/frameworks/F-C09/F-C09-002-opik.md",
+    "wiki/frameworks/F-C09/F-C09-003-phoenix.md",
+    "wiki/frameworks/F-C10/F-C10-001-superpowers.md",
+    "wiki/frameworks/F-C10/F-C10-002-mcp-servers.md",
+    "wiki/matrices/M-001-c06-memory-matrix.md",
+    "wiki/matrices/M-002-c10-protocol-ecosystem-matrix.md",
+    "wiki/matrices/M-003-c03-cli-coding-agent-matrix.md",
+    "wiki/matrices/M-004-c01-orchestration-matrix.md",
+    "wiki/matrices/M-005-c02-multiagent-matrix.md",
+    "wiki/matrices/M-006-c09-evaluation-matrix.md",
+    "wiki/patterns/P-001-workflow-vs-agent.md",
+    "wiki/patterns/P-002-context-discipline.md",
+    "wiki/patterns/P-003-tool-design-aci.md"
+  ],
+  "counts": [
+    {
+      "value": 32,
+      "count_unit": "file",
+      "count_scope": "本次获准公开文件（非全库资产数）",
+      "observed_at": "2026-10-15T10:32:48Z",
+      "source_ref": null
+    }
+  ]
+}

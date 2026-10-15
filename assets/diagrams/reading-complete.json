@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "真实知识阅读 · 发现、复查与受控恢复",
+    "locale": "zh-CN",
+    "quality_profile": "showcase",
+    "output": "content/assets/diagrams/reading-complete.html"
+  },
+  "lanes": [
+    {
+      "id": "reader",
+      "label": "使用者与阅读页"
+    },
+    {
+      "id": "service",
+      "label": "本机只读服务"
+    },
+    {
+      "id": "recovery",
+      "label": "受控恢复",
+      "variant": "exception"
+    }
+  ],
+  "mainPath": [
+    "connect",
+    "locate",
+    "catalog",
+    "verify",
+    "read"
+  ],
+  "nodes": [
+    {
+      "id": "connect",
+      "lane": "reader",
+      "col": 0,
+      "type": "frontend",
+      "label": "连接本机 Web",
+      "sublabel": "私有令牌 / 当前标签页",
+      "width": 155
+    },
+    {
+      "id": "locate",
+      "lane": "service",
+      "col": 0,
+      "type": "backend",
+      "label": "解析成员与绑定",
+      "sublabel": "共同身份 / 本机位置",
+      "width": 155
+    },
+    {
+      "id": "catalog",
+      "lane": "service",
+      "col": 1,
+      "type": "database",
+      "label": "原生目录与搜索",
+      "sublabel": "仅当前可见且已授权项",
+      "width": 155
+    },
+    {
+      "id": "verify",
+      "lane": "service",
+      "col": 2,
+      "type": "security",
+      "label": "正文交付前复查",
+      "sublabel": "位置代次 / 撤权 / 精确 SHA",
+      "width": 180
+    },
+    {
+      "id": "read",
+      "lane": "reader",
+      "col": 3,
+      "type": "frontend",
+      "label": "阅读知识与证据",
+      "sublabel": "相对路径 / 正文 SHA",
+      "width": 155
+    },
+    {
+      "id": "deny",
+      "lane": "recovery",
+      "col": 2,
+      "type": "security",
+      "label": "拒绝失效或越权内容",
+      "sublabel": "不回退旧正文",
+      "width": 180
+    },
+    {
+      "id": "review",
+      "lane": "recovery",
+      "col": 3,
+      "type": "external",
+      "label": "按原流程核查",
+      "sublabel": "本机逐文件确认 / 修复绑定",
+      "width": 180
+    },
+    {
+      "id": "refresh",
+      "lane": "recovery",
+      "col": 4,
+      "type": "backend",
+      "label": "重新请求目录与正文",
+      "sublabel": "授权不由 Web 自动扩大",
+      "width": 180
+    }
+  ],
+  "edges": [
+    {
+      "id": "connect-locate",
+      "from": "connect",
+      "to": "locate",
+      "label": "认证通过",
+      "variant": "emphasis"
+    },
+    {
+      "id": "locate-catalog",
+      "from": "locate",
+      "to": "catalog",
+      "label": "位置有效",
+      "variant": "emphasis"
+    },
+    {
+      "id": "catalog-verify",
+      "from": "catalog",
+      "to": "verify",
+      "label": "点击条目",
+      "variant": "emphasis"
+    },
+    {
+      "id": "verify-read",
+      "from": "verify",
+      "to": "read",
+      "label": "全部检查通过",
+      "variant": "emphasis"
+    },
+    {
+      "id": "verify-deny",
+      "from": "verify",
+      "to": "deny",
+      "label": "变化 / 离线 / 撤权",
+      "variant": "security",
+      "role": "error"
+    },
+    {
+      "id": "locate-deny",
+      "from": "locate",
+      "to": "deny",
+      "label": "位置无效",
+      "variant": "security",
+      "role": "error"
+    },
+    {
+      "id": "deny-review",
+      "from": "deny",
+      "to": "review",
+      "label": "说明限制",
+      "variant": "dashed",
+      "role": "branch"
+    },
+    {
+      "id": "review-refresh",
+      "from": "review",
+      "to": "refresh",
+      "label": "明确确认后",
+      "variant": "dashed",
+      "role": "branch"
+    },
+    {
+      "id": "refresh-locate",
+      "from": "refresh",
+      "to": "locate",
+      "label": "重新解析",
+      "variant": "dashed",
+      "role": "return",
+      "route": "auto",
+      "fromSide": "bottom",
+      "toSide": "left",
+      "via": [
+        [
+          1043.2,
+          409
+        ],
+        [
+          20,
+          409
+        ],
+        [
+          20,
+          243
+        ]
+      ],
+      "labelAt": [
+        554,
+        407
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "dot": "rose",
+      "title": "许可边界",
+      "items": [
+        "新文件不自动获得正文读取授权；SHA 变化不沿用旧字节授权。",
+        "本文只描述本机阅读链，不代表生产写入或迁移授权。"
+      ]
+    }
+  ]
+}

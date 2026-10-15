@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "真实知识阅读 · 正常阅读",
+    "locale": "zh-CN",
+    "quality_profile": "showcase",
+    "output": "content/assets/diagrams/reading-normal.html"
+  },
+  "lanes": [
+    {
+      "id": "reader",
+      "label": "使用者与阅读页"
+    },
+    {
+      "id": "service",
+      "label": "本机只读服务"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "connect",
+      "lane": "reader",
+      "col": 0,
+      "type": "frontend",
+      "label": "连接本机 Web",
+      "sublabel": "私有令牌 / 当前标签页",
+      "width": 165
+    },
+    {
+      "id": "locate",
+      "lane": "service",
+      "col": 0,
+      "type": "backend",
+      "label": "解析成员与绑定",
+      "sublabel": "共同身份 / 本机位置",
+      "width": 165
+    },
+    {
+      "id": "catalog",
+      "lane": "service",
+      "col": 1,
+      "type": "database",
+      "label": "原生目录与搜索",
+      "sublabel": "仅当前可见且已授权项",
+      "width": 165
+    },
+    {
+      "id": "verify",
+      "lane": "service",
+      "col": 2,
+      "type": "security",
+      "label": "正文交付前复查",
+      "sublabel": "位置代次 / 撤权 / 精确 SHA",
+      "width": 190
+    },
+    {
+      "id": "read",
+      "lane": "reader",
+      "col": 3,
+      "type": "frontend",
+      "label": "阅读知识与证据",
+      "sublabel": "相对路径 / 正文 SHA",
+      "width": 165
+    }
+  ],
+  "edges": [
+    {
+      "id": "connect-locate",
+      "from": "connect",
+      "to": "locate",
+      "label": "认证通过",
+      "variant": "emphasis"
+    },
+    {
+      "id": "locate-catalog",
+      "from": "locate",
+      "to": "catalog",
+      "label": "位置有效",
+      "variant": "emphasis"
+    },
+    {
+      "id": "catalog-verify",
+      "from": "catalog",
+      "to": "verify",
+      "label": "点击条目",
+      "variant": "emphasis"
+    },
+    {
+      "id": "verify-read",
+      "from": "verify",
+      "to": "read",
+      "label": "全部检查通过",
+      "variant": "emphasis"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "rose",
+      "title": "许可边界",
+      "items": [
+        "新文件不自动获得正文读取授权；SHA 变化不沿用旧字节授权。",
+        "本文只描述本机阅读链，不代表生产写入或迁移授权。"
+      ]
+    }
+  ],
+  "mainPath": [
+    "connect",
+    "locate",
+    "catalog",
+    "verify",
+    "read"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sample_notice": "Fictional public-preview sample data. No production Vault is represented.",
+  "generated_at": "2026-10-10T00:00:00Z",
+  "vaults": [
+    {
+      "vault_id": "sample-company-research",
+      "name": "公司研究样例库",
+      "purpose": ["梳理公司、产品、技术和风险之间的关系", "为立项前研究提供可追溯的阅读入口"],
+      "entry_points": [{"label": "阅读指南", "path": "START-HERE.md"}],
+      "structure": ["companies", "products", "technologies", "risks", "sources"],
+      "agent_prompt": "请先说明正在使用公司研究样例库。搜索时限定本 Vault；结论区分来源陈述与推断，并链接到具体证据文件。",
+      "counts": [{"value": 18, "count_unit": "asset", "count_scope": "样例公司与研究记录", "observed_at": "2026-10-10T00:00:00Z"}],
+      "resources": {"START-HERE.md": "# 公司研究样例库\n\n这是完全虚构的静态演示内容。\n\n- 从 `companies/` 阅读公司条目。\n- 通过 `sources/` 查看记录所引用的来源说明。\n- 不要把样例数字当作真实企业信息。\n"}
+    },
+    {
+      "vault_id": "sample-agent-skills",
+      "name": "Agent Skills 样例库",
+      "purpose": ["检索可复用的 Agent 工作方法", "定位 Skill、参考实现与验证要求"],
+      "entry_points": [{"label": "使用说明", "path": "START-HERE.md"}],
+      "structure": ["patterns", "skills", "references", "scripts", "templates"],
+      "agent_prompt": "使用此样例库时先读取 Skill 的适用边界与验证方法；不得把文件存在误当成能力已运行。",
+      "counts": [{"value": 12, "count_unit": "card", "count_scope": "方法与工具样例", "observed_at": "2026-10-10T00:00:00Z"}],
+      "resources": {"START-HERE.md": "# Agent Skills 样例库\n\n此 Vault 展示一种可能的目录结构，不包含可安装的第三方 Skill。\n\n- `patterns/`：可迁移的工作机制\n- `skills/`：Skill 说明样例\n- `references/`：支撑材料\n"}
+    },
+    {
+      "vault_id": "sample-project-lab",
+      "name": "项目实验样例库",
+      "purpose": ["记录项目假设、实验计划和观察结果", "比较不同方案的成本与风险"],
+      "entry_points": [{"label": "实验记录指南", "path": "START-HERE.md"}],
+      "structure": ["projects", "experiments", "decisions", "risks"],
+      "agent_prompt": "提出新方案时先引用实验记录，再给出一个可证伪的小实验；未运行的结果标注为计划。",
+      "counts": [{"value": 7, "count_unit": "asset", "count_scope": "虚构实验记录", "observed_at": "2026-10-10T00:00:00Z"}],
+      "resources": {"START-HERE.md": "# 项目实验样例库\n\n样例记录仅展示导航方式。\n\n实验条目应写明假设、基线、观察方法、失败条件与实际结果。\n"}
+    },
+    {
+      "vault_id": "sample-media-notes",
+      "name": "媒体分析样例库",
+      "purpose": ["按实体、镜头、风格和方法组织媒体观察", "保留时间戳和证据文件之间的关系"],
+      "entry_points": [{"label": "媒体知识指南", "path": "START-HERE.md"}],
+      "structure": ["entities", "shots", "styles", "methods", "evidence"],
+      "agent_prompt": "描述媒体内容时将观察和解释分开；只有存在对应证据时才引用时间戳。",
+      "counts": [{"value": null, "count_unit": "asset", "count_scope": "示例未声明实际媒体数量", "observed_at": null}],
+      "resources": {"START-HERE.md": "# 媒体分析样例库\n\n此演示没有媒体文件。证据路径只用于说明目录导航的展示方式。\n"}
+    },
+    {
+      "vault_id": "sample-product-design",
+      "name": "产品设计样例库",
+      "purpose": ["组织用户需求、界面模式和交互决策", "回到设计证据并查看适用边界"],
+      "entry_points": [{"label": "设计阅读入口", "path": "START-HERE.md"}],
+      "structure": ["needs", "patterns", "decisions", "evidence"],
+      "agent_prompt": "引用设计模式时说明来源、适用场景与限制；未核验的实现细节必须明确标为未知。",
+      "counts": [{"value": 23, "count_unit": "card", "count_scope": "示例知识卡", "observed_at": "2026-10-10T00:00:00Z"}],
+      "resources": {"START-HERE.md": "# 产品设计样例库\n\n这是一份虚构的阅读指南。\n\n设计卡应说明它解决的问题、关键机制、证据强度和不适用情境。\n"}
+    },
+    {
+      "vault_id": "sample-engineering-notes",
+      "name": "工程实践样例库",
+      "purpose": ["查找实现经验和故障诊断路径", "连接实践记录与可验证的代码位置"],
+      "entry_points": [{"label": "工程笔记", "path": "START-HERE.md"}],
+      "structure": ["systems", "incidents", "decisions", "references"],
+      "agent_prompt": "先查阅适用的运行记录，再给出可验证的定位步骤。没有源码证据时不要声称某实现已经存在。",
+      "counts": [{"value": 31, "count_unit": "asset", "count_scope": "虚构工程笔记", "observed_at": "2026-10-10T00:00:00Z"}],
+      "resources": {"START-HERE.md": "# 工程实践样例库\n\n此 Vault 不包含真实项目源码。\n\n故障记录可以包含触发条件、日志证据、根因、修复和回归验证。\n"}
+    }
+  ]
+}

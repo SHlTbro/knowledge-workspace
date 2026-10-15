@@ -1,0 +1,21 @@
+%%{init: {"c4": {"c4ShapeMargin":20,"diagramMarginX":20,"diagramMarginY":60,"width":180,"height":90}}}%%
+C4Container
+  title 知识库系统：可运行单元与文件权威
+  System_Ext(agent, "外部任务 Agent", "按原生规则执行任务")
+  System_Ext(shared, "共享 CLI / Skills", "按需调用，分项可用状态")
+  System_Boundary(system, "知识库系统") {
+    Container(cli, "框架 CLI", "Python", "ENTRY、Builder、Writer")
+    ContainerDb(instance, "显式本机实例", "JSON 文件", "成员、绑定、STATE、策略")
+    Container(web, "可选本机只读 Web", "Python HTTP", "授权目录、搜索与正文")
+    Container(browser, "浏览器阅读页", "HTML / CSS / JavaScript", "本机只读阅读")
+  }
+  SystemDb_Ext(vaults, "独立 Vault 文件", "Markdown、JSON、目录实体")
+  Rel(agent, cli, "遵循入口并调用", "ENTRY / 本机命令")
+  Rel(agent, shared, "按需原生调用", "CLI / Skill")
+  Rel(cli, instance, "解析成员与本机位置", "JSON 文件")
+  Rel(cli, vaults, "获准构建、文件操作", "本机文件")
+  Rel(browser, web, "请求只读内容", "Bearer / HTTP")
+  Rel(web, instance, "读取共同成员与策略", "JSON 文件")
+  Rel(web, vaults, "原生可见性及 SHA 复核", "本机文件")
+  Rel(agent, vaults, "按目标原生 Workflow 消费", "本机文件 / 原生 CLI")
+  UpdateLayoutConfig($c4ShapeInRow="4", $c4BoundaryInRow="1")

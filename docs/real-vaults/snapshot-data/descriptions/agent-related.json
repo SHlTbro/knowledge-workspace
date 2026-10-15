@@ -1,0 +1,40 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "agent-related",
+  "purpose": [
+    "内容方法、论证与知识工作方式的真实笔记"
+  ],
+  "entry_points": [
+    {
+      "label": "本次公开知识入口",
+      "path": "wiki/patterns/P-004-hook-title-formula.md"
+    }
+  ],
+  "structure": [
+    "wiki"
+  ],
+  "agent_prompt": "这是作者真实知识的获准公开快照，不连接私人 Vault。只引用本快照实际包含的内容；未打包的来源、附件与完整领域规则不可假称已读取。使用原生 Agent 工作流时，请在自己的本机实例解析正式成员入口与授权。",
+  "preview_resources": [
+    "wiki/patterns/P-004-hook-title-formula.md",
+    "wiki/patterns/P-005-contrast-review-structure.md",
+    "wiki/patterns/P-006-voiceover-pacing-peaks.md",
+    "wiki/patterns/P-007-conceptual-bottom-up-explainer.md",
+    "wiki/patterns/P-008-concession-argument-chain.md",
+    "wiki/patterns/P-009-explainer-hook-cognitive-gap.md",
+    "wiki/patterns/P-010-numbered-series-mechanism.md",
+    "wiki/patterns/P-011-demo-as-cta.md",
+    "wiki/patterns/P-012-weakness-chain-listing.md",
+    "wiki/patterns/P-013-remotion-ai-motion-generation.md",
+    "wiki/patterns/P-014-ai-video-workflow-layered.md"
+  ],
+  "counts": [
+    {
+      "value": 11,
+      "count_unit": "file",
+      "count_scope": "本次获准公开文件（非全库资产数）",
+      "observed_at": "2026-10-15T10:32:48Z",
+      "source_ref": null
+    }
+  ]
+}

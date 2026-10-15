@@ -1,0 +1,35 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "sample-agent-skills",
+  "purpose": [
+    "检索可复用的 Agent 工作方法",
+    "定位 Skill、参考实现与验证要求"
+  ],
+  "entry_points": [
+    {
+      "label": "使用说明",
+      "path": "START-HERE.md"
+    }
+  ],
+  "structure": [
+    "patterns",
+    "skills",
+    "references",
+    "scripts",
+    "templates"
+  ],
+  "agent_prompt": "使用此样例库时先读取 Skill 的适用边界与验证方法；不得把文件存在误当成能力已运行。",
+  "preview_resources": [
+    "START-HERE.md"
+  ],
+  "counts": [
+    {
+      "value": 12,
+      "count_unit": "card",
+      "count_scope": "方法与工具样例",
+      "observed_at": "2026-10-10T00:00:00Z",
+      "source_ref": null
+    }
+  ]
+}

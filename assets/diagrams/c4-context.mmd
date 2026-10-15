@@ -1,0 +1,18 @@
+%%{init: {"c4": {"c4ShapeMargin":20,"diagramMarginX":20,"diagramMarginY":60,"width":180,"height":90}}}%%
+C4Context
+  title 知识库系统：系统边界
+  Person(user, "使用者", "提出任务、查阅知识")
+  System(framework, "知识库系统", "本机 CLI 与可选只读 Web")
+  SystemDb_Ext(vaults, "独立 Vault", "原生规则、知识与证据文件")
+  System_Ext(agent, "任务 Agent", "外部宿主执行用户任务")
+  System_Ext(obsidian, "Obsidian", "原生编辑与领域治理")
+  System_Ext(sample, "公开 Sample Demo", "静态样例，不连接私人 Vault")
+  Rel(user, agent, "提出任务")
+  Rel(agent, framework, "遵循接入入口", "ENTRY / CLI")
+  Rel(framework, vaults, "定位规则、获准读取", "本机文件")
+  Rel(user, framework, "可选本机阅读", "HTTP")
+  Rel(user, obsidian, "编辑管理")
+  Rel(obsidian, vaults, "编辑原生文件", "本机文件")
+  Rel(user, sample, "浏览公开样例", "静态 HTML")
+  Rel(agent, vaults, "按目标原生 Workflow 消费", "本机文件 / 原生 CLI")
+  UpdateLayoutConfig($c4ShapeInRow="4", $c4BoundaryInRow="1")

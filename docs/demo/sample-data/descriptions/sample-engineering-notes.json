@@ -1,0 +1,34 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "sample-engineering-notes",
+  "purpose": [
+    "查找实现经验和故障诊断路径",
+    "连接实践记录与可验证的代码位置"
+  ],
+  "entry_points": [
+    {
+      "label": "工程笔记",
+      "path": "START-HERE.md"
+    }
+  ],
+  "structure": [
+    "systems",
+    "incidents",
+    "decisions",
+    "references"
+  ],
+  "agent_prompt": "先查阅适用的运行记录，再给出可验证的定位步骤。没有源码证据时不要声称某实现已经存在。",
+  "preview_resources": [
+    "START-HERE.md"
+  ],
+  "counts": [
+    {
+      "value": 31,
+      "count_unit": "asset",
+      "count_scope": "虚构工程笔记",
+      "observed_at": "2026-10-10T00:00:00Z",
+      "source_ref": null
+    }
+  ]
+}

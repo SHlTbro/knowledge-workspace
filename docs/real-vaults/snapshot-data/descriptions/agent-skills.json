@@ -1,0 +1,35 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "agent-skills",
+  "purpose": [
+    "Skill 设计、方法论、结构化提取与需求说明"
+  ],
+  "entry_points": [
+    {
+      "label": "本次公开知识入口",
+      "path": "wiki/design-cards/D-001-kb-operator-design-card.md"
+    }
+  ],
+  "structure": [
+    "wiki"
+  ],
+  "agent_prompt": "这是作者真实知识的获准公开快照，不连接私人 Vault。只引用本快照实际包含的内容；未打包的来源、附件与完整领域规则不可假称已读取。使用原生 Agent 工作流时，请在自己的本机实例解析正式成员入口与授权。",
+  "preview_resources": [
+    "wiki/design-cards/D-001-kb-operator-design-card.md",
+    "wiki/design-cards/D-002-tdd-for-skills-design-card.md",
+    "wiki/design-philosophy/PH-001-verifiability-before-completeness.md",
+    "wiki/patterns/P-015-schema-first-extraction-retry-loop.md",
+    "wiki/patterns/P-016-jd-resume-tailoring-methodology.md",
+    "wiki/requirements/R-002-project-context-hygiene/SKILL.md"
+  ],
+  "counts": [
+    {
+      "value": 6,
+      "count_unit": "file",
+      "count_scope": "本次获准公开文件（非全库资产数）",
+      "observed_at": "2026-10-15T10:32:48Z",
+      "source_ref": null
+    }
+  ]
+}

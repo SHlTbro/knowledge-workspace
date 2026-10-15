@@ -1,0 +1,198 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "知识库系统 · 可运行单元与文件权威",
+    "locale": "zh-CN",
+    "quality_profile": "showcase",
+    "output": "content/assets/diagrams/c4-containers.html"
+  },
+  "components": [
+    {
+      "id": "agent",
+      "type": "external",
+      "label": "外部任务 Agent",
+      "sublabel": "按原生规则使用工具",
+      "pos": [
+        40,
+        120
+      ],
+      "size": [
+        190,
+        74
+      ]
+    },
+    {
+      "id": "cli",
+      "type": "backend",
+      "label": "框架 CLI",
+      "sublabel": "Python / ENTRY、Builder、Writer",
+      "pos": [
+        400,
+        120
+      ],
+      "size": [
+        250,
+        74
+      ]
+    },
+    {
+      "id": "instance",
+      "type": "database",
+      "label": "显式本机实例",
+      "sublabel": "JSON / 成员、绑定、STATE、策略",
+      "pos": [
+        400,
+        390
+      ],
+      "size": [
+        250,
+        74
+      ]
+    },
+    {
+      "id": "vaults",
+      "type": "database",
+      "label": "独立 Vault 文件",
+      "sublabel": "Markdown / JSON / 目录实体",
+      "pos": [
+        820,
+        120
+      ],
+      "size": [
+        240,
+        74
+      ]
+    },
+    {
+      "id": "web",
+      "type": "backend",
+      "label": "可选本机只读 Web",
+      "sublabel": "Python / loopback HTTP",
+      "pos": [
+        820,
+        660
+      ],
+      "size": [
+        240,
+        74
+      ]
+    },
+    {
+      "id": "browser",
+      "type": "frontend",
+      "label": "浏览器阅读页",
+      "sublabel": "HTML / CSS / JavaScript",
+      "pos": [
+        400,
+        660
+      ],
+      "size": [
+        250,
+        74
+      ]
+    },
+    {
+      "id": "shared",
+      "type": "external",
+      "label": "共享 CLI / Skills",
+      "sublabel": "按需调用 / 分项可用状态",
+      "pos": [
+        40,
+        390
+      ],
+      "size": [
+        190,
+        74
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "id": "agent-cli",
+      "from": "agent",
+      "to": "cli",
+      "label": "ENTRY / 本机命令",
+      "variant": "emphasis"
+    },
+    {
+      "id": "cli-instance",
+      "from": "cli",
+      "to": "instance",
+      "label": "成员与位置约束",
+      "variant": "default"
+    },
+    {
+      "id": "cli-vault",
+      "from": "cli",
+      "to": "vaults",
+      "label": "获准构建 / 文件操作",
+      "variant": "emphasis"
+    },
+    {
+      "id": "agent-shared",
+      "from": "agent",
+      "to": "shared",
+      "label": "按需原生调用",
+      "variant": "default"
+    },
+    {
+      "id": "browser-web",
+      "from": "browser",
+      "to": "web",
+      "label": "Bearer / HTTP",
+      "variant": "emphasis"
+    },
+    {
+      "id": "web-vault",
+      "from": "web",
+      "to": "vaults",
+      "label": "可见性 + SHA 复核",
+      "variant": "emphasis"
+    },
+    {
+      "id": "web-instance",
+      "from": "web",
+      "to": "instance",
+      "label": "读取共同成员 / 策略",
+      "variant": "default"
+    },
+    {
+      "id": "agent-native-workflow",
+      "from": "agent",
+      "to": "vaults",
+      "label": "按目标原生 Workflow 消费",
+      "variant": "dashed",
+      "fromSide": "top",
+      "toSide": "top",
+      "via": [
+        [
+          135,
+          35
+        ],
+        [
+          940,
+          35
+        ]
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "CLI 内的库模块",
+      "items": [
+        "MemberStore / BindingStore 是共享 Python 模块，不是独立服务。",
+        "Builder 只在明确授权目标落盘；Writer 不代替领域质量门。"
+      ]
+    },
+    {
+      "dot": "rose",
+      "title": "只读 Web",
+      "items": [
+        "只监听本机；每次目录、搜索与正文重新检查权限。",
+        "Search 是请求内 BM25 投影，知识文件仍是内容来源。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "sample-product-design",
+  "purpose": [
+    "组织用户需求、界面模式和交互决策",
+    "回到设计证据并查看适用边界"
+  ],
+  "entry_points": [
+    {
+      "label": "设计阅读入口",
+      "path": "START-HERE.md"
+    }
+  ],
+  "structure": [
+    "needs",
+    "patterns",
+    "decisions",
+    "evidence"
+  ],
+  "agent_prompt": "引用设计模式时说明来源、适用场景与限制；未核验的实现细节必须明确标为未知。",
+  "preview_resources": [
+    "START-HERE.md"
+  ],
+  "counts": [
+    {
+      "value": 23,
+      "count_unit": "card",
+      "count_scope": "示例知识卡",
+      "observed_at": "2026-10-10T00:00:00Z",
+      "source_ref": null
+    }
+  ]
+}

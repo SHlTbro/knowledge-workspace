@@ -1,0 +1,2 @@
+Fictional public-preview sample data. No production Vault is represented.
+All six Vault records and all preview text are fictional.

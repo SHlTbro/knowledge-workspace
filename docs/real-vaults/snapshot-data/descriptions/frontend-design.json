@@ -1,0 +1,58 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "frontend-design",
+  "purpose": [
+    "前端设计机制与实现参考的目录实体入口"
+  ],
+  "entry_points": [
+    {
+      "label": "本次公开知识入口",
+      "path": "content/knowledge/agent-handoff-terminal-mock/index.md"
+    }
+  ],
+  "structure": [
+    "content"
+  ],
+  "agent_prompt": "这是作者真实知识的获准公开快照，不连接私人 Vault。只引用本快照实际包含的内容；未打包的来源、附件与完整领域规则不可假称已读取。使用原生 Agent 工作流时，请在自己的本机实例解析正式成员入口与授权。",
+  "preview_resources": [
+    "content/knowledge/agent-handoff-terminal-mock/index.md",
+    "content/knowledge/animate-ui-files/index.md",
+    "content/knowledge/before-after-visual-proof/index.md",
+    "content/knowledge/bento-grid-feature-layout/index.md",
+    "content/knowledge/blog-article-type-router/index.md",
+    "content/knowledge/broadcast-ui-portfolio/index.md",
+    "content/knowledge/card-spotlight-hover/index.md",
+    "content/knowledge/code-typing-demo/index.md",
+    "content/knowledge/editorial-automotive-luxury/index.md",
+    "content/knowledge/first-person-experiential-home/index.md",
+    "content/knowledge/globe-3d-data-visual/index.md",
+    "content/knowledge/immersive-music-site/index.md",
+    "content/knowledge/interactive-blueprint-hero/index.md",
+    "content/knowledge/interactive-brand-game/index.md",
+    "content/knowledge/interactive-brand-guidelines/index.md",
+    "content/knowledge/marquee-infinite-flow/index.md",
+    "content/knowledge/media-first-neutral-shell/index.md",
+    "content/knowledge/narrative-step-product-story/index.md",
+    "content/knowledge/node-graph-brand-language/index.md",
+    "content/knowledge/one-rule-visual-system/index.md",
+    "content/knowledge/persona-driven-demo-presets/index.md",
+    "content/knowledge/pricing-compare-matrix/index.md",
+    "content/knowledge/progressive-node-assembly/index.md",
+    "content/knowledge/reusable-product-subpage-template/index.md",
+    "content/knowledge/semantic-danger-accent/index.md",
+    "content/knowledge/shader-hero-abstract/index.md",
+    "content/knowledge/spotlight-hero-background/index.md",
+    "content/knowledge/transcript-diff-visualization/index.md",
+    "content/knowledge/webgl-scroll-cinema/index.md"
+  ],
+  "counts": [
+    {
+      "value": 29,
+      "count_unit": "file",
+      "count_scope": "本次获准公开文件（非全库资产数）",
+      "observed_at": "2026-10-15T10:32:48Z",
+      "source_ref": null
+    }
+  ]
+}

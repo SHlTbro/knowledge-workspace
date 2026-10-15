@@ -1,0 +1,35 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "sample-company-research",
+  "purpose": [
+    "梳理公司、产品、技术和风险之间的关系",
+    "为立项前研究提供可追溯的阅读入口"
+  ],
+  "entry_points": [
+    {
+      "label": "阅读指南",
+      "path": "START-HERE.md"
+    }
+  ],
+  "structure": [
+    "companies",
+    "products",
+    "technologies",
+    "risks",
+    "sources"
+  ],
+  "agent_prompt": "请先说明正在使用公司研究样例库。搜索时限定本 Vault；结论区分来源陈述与推断，并链接到具体证据文件。",
+  "preview_resources": [
+    "START-HERE.md"
+  ],
+  "counts": [
+    {
+      "value": 18,
+      "count_unit": "asset",
+      "count_scope": "样例公司与研究记录",
+      "observed_at": "2026-10-10T00:00:00Z",
+      "source_ref": null
+    }
+  ]
+}

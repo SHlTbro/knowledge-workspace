@@ -1,0 +1,32 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "video-knowledge",
+  "purpose": [
+    "运动、结构、风格的有效 Active 知识卡"
+  ],
+  "entry_points": [
+    {
+      "label": "本次公开知识入口",
+      "path": "wiki/cards/mot/MOT-DY-BURST-001.md"
+    }
+  ],
+  "structure": [
+    "wiki"
+  ],
+  "agent_prompt": "这是作者真实知识的获准公开快照，不连接私人 Vault。只引用本快照实际包含的内容；未打包的来源、附件与完整领域规则不可假称已读取。使用原生 Agent 工作流时，请在自己的本机实例解析正式成员入口与授权。",
+  "preview_resources": [
+    "wiki/cards/mot/MOT-DY-BURST-001.md",
+    "wiki/cards/str/STR-DY-INTERACTION-001.md",
+    "wiki/cards/sty/STY-DY-INTERACTION-001.md"
+  ],
+  "counts": [
+    {
+      "value": 3,
+      "count_unit": "file",
+      "count_scope": "本次获准公开文件（非全库资产数）",
+      "observed_at": "2026-10-15T10:32:48Z",
+      "source_ref": null
+    }
+  ]
+}

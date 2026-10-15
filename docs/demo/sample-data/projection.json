@@ -1,0 +1,123 @@
+{
+  "display_schema_version": "kb-display-1.1",
+  "freshness": "current",
+  "projection_revision": 1,
+  "source_member_revision": 1,
+  "generated_at": "2026-10-10T00:00:00Z",
+  "vaults": [
+    {
+      "vault_id": "sample-company-research",
+      "member_revision": 1,
+      "policy_revision": 1,
+      "name": "公司研究样例库",
+      "enabled": true,
+      "resources": [
+        "START-HERE.md"
+      ],
+      "counts": [
+        {
+          "value": 18,
+          "count_unit": "asset",
+          "count_scope": "样例公司与研究记录",
+          "observed_at": "2026-10-10T00:00:00Z"
+        }
+      ],
+      "state": "current"
+    },
+    {
+      "vault_id": "sample-agent-skills",
+      "member_revision": 1,
+      "policy_revision": 1,
+      "name": "Agent Skills 样例库",
+      "enabled": true,
+      "resources": [
+        "START-HERE.md"
+      ],
+      "counts": [
+        {
+          "value": 12,
+          "count_unit": "card",
+          "count_scope": "方法与工具样例",
+          "observed_at": "2026-10-10T00:00:00Z"
+        }
+      ],
+      "state": "current"
+    },
+    {
+      "vault_id": "sample-project-lab",
+      "member_revision": 1,
+      "policy_revision": 1,
+      "name": "项目实验样例库",
+      "enabled": true,
+      "resources": [
+        "START-HERE.md"
+      ],
+      "counts": [
+        {
+          "value": 7,
+          "count_unit": "asset",
+          "count_scope": "虚构实验记录",
+          "observed_at": "2026-10-10T00:00:00Z"
+        }
+      ],
+      "state": "current"
+    },
+    {
+      "vault_id": "sample-media-notes",
+      "member_revision": 1,
+      "policy_revision": 1,
+      "name": "媒体分析样例库",
+      "enabled": true,
+      "resources": [
+        "START-HERE.md"
+      ],
+      "counts": [
+        {
+          "value": null,
+          "count_unit": "asset",
+          "count_scope": "示例未声明实际媒体数量",
+          "observed_at": null
+        }
+      ],
+      "state": "current"
+    },
+    {
+      "vault_id": "sample-product-design",
+      "member_revision": 1,
+      "policy_revision": 1,
+      "name": "产品设计样例库",
+      "enabled": true,
+      "resources": [
+        "START-HERE.md"
+      ],
+      "counts": [
+        {
+          "value": 23,
+          "count_unit": "card",
+          "count_scope": "示例知识卡",
+          "observed_at": "2026-10-10T00:00:00Z"
+        }
+      ],
+      "state": "current"
+    },
+    {
+      "vault_id": "sample-engineering-notes",
+      "member_revision": 1,
+      "policy_revision": 1,
+      "name": "工程实践样例库",
+      "enabled": true,
+      "resources": [
+        "START-HERE.md"
+      ],
+      "counts": [
+        {
+          "value": 31,
+          "count_unit": "asset",
+          "count_scope": "虚构工程笔记",
+          "observed_at": "2026-10-10T00:00:00Z"
+        }
+      ],
+      "state": "current"
+    }
+  ]
+}

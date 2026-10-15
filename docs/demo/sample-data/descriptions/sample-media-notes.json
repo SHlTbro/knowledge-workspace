@@ -1,0 +1,35 @@
+{
+  "description_version": "1",
+  "revision": 1,
+  "vault_id": "sample-media-notes",
+  "purpose": [
+    "按实体、镜头、风格和方法组织媒体观察",
+    "保留时间戳和证据文件之间的关系"
+  ],
+  "entry_points": [
+    {
+      "label": "媒体知识指南",
+      "path": "START-HERE.md"
+    }
+  ],
+  "structure": [
+    "entities",
+    "shots",
+    "styles",
+    "methods",
+    "evidence"
+  ],
+  "agent_prompt": "描述媒体内容时将观察和解释分开；只有存在对应证据时才引用时间戳。",
+  "preview_resources": [
+    "START-HERE.md"
+  ],
+  "counts": [
+    {
+      "value": null,
+      "count_unit": "asset",
+      "count_scope": "示例未声明实际媒体数量",
+      "observed_at": null,
+      "source_ref": null
+    }
+  ]
+}
