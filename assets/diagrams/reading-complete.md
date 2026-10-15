@@ -9,3 +9,5 @@
 此图说明产品中的本机只读能力，不是私人 Vault 内容发布授权，也不表示生产迁移已经完成。
 
 图形与字体的许可见 [Archify MIT](ARCHIFY-LICENSE.txt) 与 [字体 OFL](JetBrainsMono-OFL.txt)。
+
+可选矢量预览：[SVG](reading-complete.svg)。

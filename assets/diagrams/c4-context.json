@@ -5,7 +5,7 @@
     "title": "知识库系统 · 系统边界",
     "locale": "zh-CN",
     "quality_profile": "showcase",
-    "output": "content/assets/diagrams/c4-context.html"
+    "output": "assets/diagrams/c4-context.html"
   },
   "components": [
     {

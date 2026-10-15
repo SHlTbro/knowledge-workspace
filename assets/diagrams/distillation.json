@@ -1,0 +1,207 @@
+{
+  "schema_version": 2,
+  "diagram_type": "workflow",
+  "meta": {
+    "title": "从真实任务到可复用知识",
+    "locale": "zh-CN",
+    "quality_profile": "showcase",
+    "output": "assets/diagrams/distillation.html"
+  },
+  "lanes": [
+    {
+      "id": "main",
+      "label": "Agent 按目标库规则执行"
+    },
+    {
+      "id": "recovery",
+      "label": "边界与修复",
+      "variant": "exception"
+    }
+  ],
+  "mainPath": [
+    "design",
+    "rules",
+    "extract",
+    "gate",
+    "publish",
+    "consume"
+  ],
+  "nodes": [
+    {
+      "id": "design",
+      "lane": "main",
+      "col": 0,
+      "type": "external",
+      "label": "按任务选库 / 建库",
+      "sublabel": "独立结构 · 确认后落盘",
+      "width": 154
+    },
+    {
+      "id": "rules",
+      "lane": "main",
+      "col": 1,
+      "type": "backend",
+      "label": "读取规则与索引",
+      "sublabel": "限定素材范围 · 查重",
+      "width": 154
+    },
+    {
+      "id": "extract",
+      "lane": "main",
+      "col": 2,
+      "type": "backend",
+      "label": "提炼机制与证据",
+      "sublabel": "事实 / 推断 / 未知",
+      "width": 154
+    },
+    {
+      "id": "gate",
+      "lane": "main",
+      "col": 3,
+      "type": "security",
+      "label": "原生写入与质量门",
+      "sublabel": "目标库自己的 Workflow",
+      "width": 154
+    },
+    {
+      "id": "publish",
+      "lane": "main",
+      "col": 4,
+      "type": "database",
+      "label": "发布与收尾",
+      "sublabel": "知识 + 来源 + 使用边界",
+      "width": 154
+    },
+    {
+      "id": "consume",
+      "lane": "main",
+      "col": 5,
+      "type": "external",
+      "label": "用于下一次任务",
+      "sublabel": "选型 · 设计 · 实验",
+      "width": 154
+    },
+    {
+      "id": "stop",
+      "lane": "recovery",
+      "col": 1,
+      "type": "security",
+      "label": "停止越界操作",
+      "sublabel": "缺授权或素材则明确缺口",
+      "width": 154
+    },
+    {
+      "id": "repair",
+      "lane": "recovery",
+      "col": 3,
+      "type": "messagebus",
+      "label": "修复后重新检查",
+      "sublabel": "不跳过领域质量门",
+      "width": 154
+    },
+    {
+      "id": "gap",
+      "lane": "recovery",
+      "col": 5,
+      "type": "messagebus",
+      "label": "记录消费缺口",
+      "sublabel": "只补实际缺失的知识",
+      "width": 154
+    }
+  ],
+  "edges": [
+    {
+      "id": "design-rules",
+      "from": "design",
+      "to": "rules",
+      "label": "已确认",
+      "role": "main"
+    },
+    {
+      "id": "rules-extract",
+      "from": "rules",
+      "to": "extract",
+      "label": "获准且适用",
+      "role": "main"
+    },
+    {
+      "id": "extract-gate",
+      "from": "extract",
+      "to": "gate",
+      "role": "main"
+    },
+    {
+      "id": "gate-publish",
+      "from": "gate",
+      "to": "publish",
+      "label": "通过",
+      "role": "main"
+    },
+    {
+      "id": "publish-consume",
+      "from": "publish",
+      "to": "consume",
+      "role": "main"
+    },
+    {
+      "id": "rules-stop",
+      "from": "rules",
+      "to": "stop",
+      "label": "不满足范围",
+      "role": "error",
+      "variant": "security"
+    },
+    {
+      "id": "gate-repair",
+      "from": "gate",
+      "to": "repair",
+      "label": "未通过",
+      "role": "error",
+      "variant": "security"
+    },
+    {
+      "id": "repair-extract",
+      "from": "repair",
+      "to": "extract",
+      "label": "修复重试",
+      "role": "return",
+      "variant": "dashed"
+    },
+    {
+      "id": "consume-gap",
+      "from": "consume",
+      "to": "gap",
+      "label": "知识不足",
+      "role": "branch",
+      "variant": "dashed"
+    },
+    {
+      "id": "gap-extract",
+      "from": "gap",
+      "to": "extract",
+      "label": "补证再提炼",
+      "role": "return",
+      "variant": "dashed",
+      "route": "bottom-channel",
+      "fromSide": "bottom",
+      "toSide": "bottom"
+    }
+  ],
+  "cards": [
+    {
+      "dot": "cyan",
+      "title": "建库不是复制统一模板",
+      "items": [
+        "外部 Agent 依据任务设计知识类型、目录与领域规则；确认文件计划后，由安全 Builder 执行 stage → validate → place，再登记。"
+      ]
+    },
+    {
+      "dot": "rose",
+      "title": "这是协作方法，不是全自动服务",
+      "items": [
+        "Agent 和目标 Vault 的原生 Workflow 完成蒸馏。框架负责位置、安全文件操作和收尾；Web 仅提供获准阅读。",
+        "系统收尾成功不等于领域质量或消费任务成功；证据不足的结论继续标为未知。"
+      ]
+    }
+  ]
+}

@@ -7,3 +7,7 @@
 - [阅读与恢复](reading-workflow.md)：授权目录、搜索、正文复核、拒绝与逐文件恢复。
 
 图中的身份和位置均为公开概念，不包含私人 Vault 正文或本机配置。主 README 直接嵌入四张静态预览；此页保留可编辑来源和额外关系说明。
+
+## 按任务建库、蒸馏与消费
+
+[完整流程与边界](distillation.md) · [静态预览](distillation.png) · [交互HTML下载](distillation.html) · [JSON源](distillation.json) · [SVG](distillation.svg)

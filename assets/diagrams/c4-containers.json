@@ -5,7 +5,7 @@
     "title": "知识库系统 · 可运行单元与文件权威",
     "locale": "zh-CN",
     "quality_profile": "showcase",
-    "output": "content/assets/diagrams/c4-containers.html"
+    "output": "assets/diagrams/c4-containers.html"
   },
   "components": [
     {
